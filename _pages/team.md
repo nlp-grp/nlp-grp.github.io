@@ -138,6 +138,8 @@ permalink: /team/
 </div>
 {% endif %}
 
+<!--
+
 ## Alumni
 
 {% assign number_printed = 0 %}
@@ -200,3 +202,4 @@ permalink: /team/
 
 ## Administrative and System Support
 <a href="https://www.usf.edu/engineering/cse/people/staff.aspx">USF's Department of Computer Science and Engineering Staff</a>
+-->
