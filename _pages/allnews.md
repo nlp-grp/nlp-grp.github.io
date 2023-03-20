@@ -8,7 +8,28 @@ permalink: /allnews.html
 
 # News
 
-{% for article in site.data.news %}
-{{ article.date }} <br>
-{{ article.headline | markdownify}}
-{% endfor %}
+## March 2023
+The [USF AI+X Institute](https://aix.eng.usf.edu/) and NLP Group are organizing a symposium in Fall 2023 on a variety of AI-related topics, including ChatGPT, GPT-4, Image generation, Biomedical AI, AI policy, AI in education, and more. We are soliciting feedback on what you’d like to see, present, and discuss. Please pass on this message and fill out this [survey](https://docs.google.com/forms/d/1F06CCgprYUsVlADln872uTXoCseKkNZ2vUeMcgzRylk) to help us plan this important event.
+  
+## February 2023
+**AMHR's Journal Club Announcement** 
+
+The students in Dr. Licato’s [AMHR Lab](https://sites.google.com/view/amhr) are hosting a Journal Club this semester. Members can volunteer to present a recent paper in NLP that they find interesting.   These volunteers will have about 20 minutes to review the paper.  We plan to have about three speakers per meeting and meet once a week. Any student can attend. Presenting is not required. Meeting will be held simultaneously in ENB 224 and on TEAMS. 
+
+Please let your students know about this opportunity to become more familiar with recent NLP research and to present if they are so inclined. We are currently working on find a meeting date that accommodates the most students. Have interested students fill out the poll here by the end of the day on Friday, 2/17: https://www.when2meet.com/?18675510-PeMAE. Professors are invited to attend or present as well!
+
+## February 2023
+Dr. John Licato will give a talk on **ChatGPT, Cheating, and Chaos: What All Educators Need to Know, and What's Next**
+
+Friday, February 17, 2023 1PM
+
+**Abstract:** Much has been said about the ways in which ChatGPT is going to change the world, if it hasn't already. Unfortunately, much of what is being said is either dramatically overexaggerated, or dramatically underexaggerated. I will provide a soft introduction to the technological and natural language processing (NLP) advances that made ChatGPT possible, to provide a clearer perspective on what kind of reasoning ChatGPT and its relatives are and are not capable of. But more importantly, I attempt to provide a balanced take on what is coming next, drawing from current research into reasoning using large language models. I will argue, in no uncertain terms: any educator at the college level who is not planning on adjusting their course to prepare for the changes that are already here is in real trouble. 
+
+[Join via Microsoft Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjAxY2QxYmEtYWMxMS00MmMyLWE5YjAtOTM5OWI0Y2JiZTcw%40thread.v2/0?context=%7b%22Tid%22%3a%22741bf7de-e2e5-46df-8d67-82607df9deaa%22%2c%22Oid%22%3a%22a4f34152-dd02-421b-a070-bbb003895dde%22%7d).
+
+## September 2022
+Dr. Seungbae Kim will give a talk at the Institute for AI+X Seminar on Artificial Intelligence for Social Systems. Join us Friday, Sept. 2 in ENB 118 at 1pm.
+
+## August 2022
+USF's Computer Science and Engineering faculty launch the NLP Group!
+
