@@ -1,16 +1,16 @@
-- name: Parush Gera
-  photo: parush.jpg
-  info: PhD Student (Advised by Dr. Neal)
-  email: parush@usf.edu
-  number_educ: 3
-  education1: M.S., University of South Florida
-  education2: M.B.A., Punjabi University
-  education3: B.E., Panjab University
+# - name: Parush Gera
+#   photo: parush.jpg
+#   info: PhD Student (Advised by Dr. Neal)
+#   email: parush@usf.edu
+#   number_educ: 3
+#   education1: M.S., University of South Florida
+#   education2: M.B.A., Punjabi University
+#   education3: B.E., Panjab University
 
-- name: Meghna Chaudhary
-  photo: meghna.jpg
-  info: PhD Student (Advised by Dr. Neal)
-  email: meghna1@usf.edu
-  number_educ: 2
-  education1: M.E., Panjab University
-  education2: B.E., Panjab University
+# - name: Meghna Chaudhary
+#   photo: meghna.jpg
+#   info: PhD Student (Advised by Dr. Neal)
+#   email: meghna1@usf.edu
+#   number_educ: 2
+#   education1: M.E., Panjab University
+#   education2: B.E., Panjab University
