@@ -28,7 +28,6 @@
   number_educ: 1
   education1: Ph.D., Computer Science, University of California, Los Angeles
   
-  
 - name: Ankur Mali, Ph.D.
   photo: Ankur_Mali_7.jpg
   info: Assistant Professor
@@ -36,3 +35,13 @@
   number_educ: 2
   education1: Ph.D., Informatics, Pennsylvania State University, University Park
   education2: Director, <a href="https://tkai-lab.github.io/">Trustworthy Knowledge-Driven Artificial Intelligence (TKAI) Lab</a>
+
+- name: Yasin Yilmaz, Ph.D.
+  photo: y_yilmaz.jpg
+  info: Associate Professor
+  email: yasiny@usf.edu
+  number_educ: 2
+  education1: Ph.D., Informatics, Pennsylvania State University, University Park
+  education2: Director, <a href="https://tkai-lab.github.io/">Trustworthy Knowledge-Driven Artificial Intelligence (TKAI) Lab</a>
+  bio: Dr. Yasin Yilmaz received the Ph.D. degree in Electrical Engineering from Columbia University, New York, NY, in 2014. He is currently an Associate Professor at the University of South Florida, Tampa, where he directs the Secure and Intelligent Systems (SIS) Lab. His research interests include machine learning algorithms and applications in computer vision, cybersecurity, biomedical systems, intelligent transportation systems, energy systems, and communication systems. In terms of language intelligence and analytics research, Dr. Yilmaz investigates vision-language models for image and video understanding, multimodal models for biomedical datasets (e.g., electronic health records, radiology images, histopathology images, molecular data), and the security and robustness of language agents.  
+
