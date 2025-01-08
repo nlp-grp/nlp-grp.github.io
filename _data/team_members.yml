@@ -7,12 +7,15 @@
   education2: Faculty Member, <a href="http://www.eng.usf.edu/cvprg/people.html" target="_blank">Computer Vision and Pattern Recognition Group</a>
   education3: Dr. Shaun Canavan's research focuses broadly on Affective Computing and Human-Computer Interaction, with research interest in sentiment analysis. He has over 60 publications in top conferences and journals such as CVPR, ICPR, ICMI, ACII, FG, Pattern Recognition Letters, IEEE Transactions on Visualization and Computer Graphics, and IEEE Transactions on Affective Computing. 
 
-- name: Gene Louis Kim, Ph.D.
-  photo: Gene.jpg
+- name: Zhao Han, Ph.D.
+  photo: z_han.jpeg
   info: Assistant Professor, Department of Computer Science and Engineering
-  email: genekim@usf.edu
-  number_educ: 1
-  education1: Ph.D., Computer Science, University of Rochester
+  email: zhaohan@usf.edu
+  number_educ: 3
+  education1: Ph.D., Computer Science, UMass Lowell
+  education2: Director, <a href="https://therarelab.com/" target="_blank">Reality, Autonomy, and Robot Experience (RARE) Lab
+</a>
+  education3: Dr. Zhao Han's research lies broadly in human-robot interaction (HRI), augmented reality (AR), robotics, and AI. He focuses on designing, developing, and evaluating novel robotic systems and interactions, for embodied robots to be more capable and understandable while interacting, collaborating, and teaming up with humans. His group also studies natural language, mainly references, and through the lens of HRI. Their current work uses LLMs for a mental health story telling robot to be deployed to dorms.
 
 - name: Seungbae Kim, Ph.D.
   photo: seungbae.jpg
