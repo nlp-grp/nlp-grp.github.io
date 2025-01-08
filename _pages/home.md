@@ -1,7 +1,7 @@
 ---
-title: "NLP Group @ USF - Home"
+title: "Home"
 layout: homelay
-excerpt: "NLP Group @ USF"
+excerpt: "LIAN"
 sitemap: false
 permalink: /
 ---
@@ -51,7 +51,6 @@ The Natural Language Processing (NLP) Group conducts transformative research in 
   </a>
 </div>
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team.** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 <!--<figure class="fourth">
