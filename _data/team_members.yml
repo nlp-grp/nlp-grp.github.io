@@ -1,3 +1,12 @@
+- name: Shaun Canavan, Ph.D.
+  photo: s_canavan.jpg
+  info: Associate Professor, Department of Computer Science and Engineering
+  email: scanavan@usf.edu
+  number_educ: 3
+  education1: Ph.D., Computer Science, Binghamton University of Rochester
+  education2: Faculty Member, <a href="http://www.eng.usf.edu/cvprg/people.html" target="_blank">Computer Vision and Pattern Recognition Group</a>
+  education3: Dr. Shaun Canavan's research focuses broadly on Affective Computing and Human-Computer Interaction, with research interest in sentiment analysis. He has over 60 publications in top conferences and journals such as CVPR, ICPR, ICMI, ACII, FG, Pattern Recognition Letters, IEEE Transactions on Visualization and Computer Graphics, and IEEE Transactions on Affective Computing. 
+
 - name: Gene Louis Kim, Ph.D.
   photo: Gene.jpg
   info: Assistant Professor, Department of Computer Science and Engineering
