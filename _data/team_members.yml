@@ -1,44 +1,45 @@
-- name: Tempestt Neal, Ph.D.
-  photo: Neal-Headshot.jpeg
-  info: Associate Professor
-  email: tjneal@usf.edu
-  number_educ: 2
-  education1: Ph.D., Computer Engineering, University of Florida
-  education2: Director, <a href="https://tempestt-neal.github.io/ciber/">Cyber Identity and Behavior Research Lab</a>
-  
 - name: Gene Louis Kim, Ph.D.
   photo: Gene.jpg
-  info: Assistant Professor
+  info: Assistant Professor, Department of Computer Science and Engineering
   email: genekim@usf.edu
   number_educ: 1
   education1: Ph.D., Computer Science, University of Rochester
+
+- name: Seungbae Kim, Ph.D.
+  photo: seungbae.jpg
+  info: Assistant Professor, Department of Computer Science and Engineering
+  email: seungbae@usf.edu
+  number_educ: 1
+  education1: Ph.D., Computer Science, University of California, Los Angeles
   
 - name: John Licato, Ph.D.
   photo: licato.jpeg
-  info: Associate Professor
+  info: Associate Professor, Department of Computer Science and Engineering
   email: licato@usf.edu
   number_educ: 2
   education1: Ph.D., Computer Science, Rensselaer Polytechnic Institute
   education2: Director, <a href="https://sites.google.com/view/amhr">Advancing Machine and Human Reasoning Lab</a>
   
-- name: Seungbae Kim, Ph.D.
-  photo: seungbae.jpg
-  info: Assistant Professor
-  email: seungbae@usf.edu
-  number_educ: 1
-  education1: Ph.D., Computer Science, University of California, Los Angeles
-  
 - name: Ankur Mali, Ph.D.
   photo: Ankur_Mali_7.jpg
-  info: Assistant Professor
+  info: Assistant Professor, Department of Computer Science and Engineering
   email: ankurarjunmali@usf.edu
   number_educ: 2
   education1: Ph.D., Informatics, Pennsylvania State University, University Park
   education2: Director, <a href="https://tkai-lab.github.io/">Trustworthy Knowledge-Driven Artificial Intelligence (TKAI) Lab</a>
 
+- name: Tempestt Neal, Ph.D.
+  photo: Neal-Headshot.jpeg
+  info: Associate Professor, Department of Computer Science and Engineering
+  email: tjneal@usf.edu
+  number_educ: 3
+  education1: Ph.D., Computer Engineering, University of Florida
+  education2: Director, <a href="https://tempestt-neal.github.io/ciber/">Cyber Identity and Behavior Research Lab</a>
+  education3: Dr. Tempestt Neal's research explores mobile-based sensing for biometrics and human behavior understanding in interdisciplinary applications, with a focus on cybersecurity awareness among underrepresented populations in science and engineering. She serves as Program Chair for IEEE FG 2025 and on the IEEE Biometrics Council Education Committee, with past roles including Associate Editor for the IEEE Biometrics Council Newsletter and Guest Editor for MDPI Electronics. She has organized workshops on AI and biometrics, including the Applied Multimodal Affect Recognition series and the Workshop on Interdisciplinary Applications of Identity Science and Biometrics. Dr. Neal’s honors include the NSF CAREER Award (2023), McKnight Junior Faculty Fellowship (2021–2022), University of Florida’s Delores Auzenne Dissertation Award, and the NSF CyberCorps Scholarship for Service Fellowship.
+
 - name: Yasin Yilmaz, Ph.D.
   photo: y_yilmaz.jpg
-  info: Associate Professor
+  info: Associate Professor, Department of Electrical Engineering
   email: yasiny@usf.edu
   number_educ: 3
   education1: Ph.D., Electrical Engineering, Columbia University, New York, NY
