@@ -48,6 +48,14 @@
   education2: Director, <a href="https://tempestt-neal.github.io/ciber/" target="_blank">Cyber Identity and Behavior Research Lab</a>
   education3: Dr. Tempestt Neal's research focuses on mobile-based sensing for biometrics and human behavior understanding in interdisciplinary applications, with an emphasis on cybersecurity awareness among underrepresented populations in science and engineering. Her lab also conducts work in natural language processing (NLP), specializing in opinion mining using deep learning architectures to address challenging tasks such as implicit and cross-domain contexts.
 
+- name: <a href="http://eng.usf.edu/~xiongk/" target="_blank">Kaiqi Xiong, Ph.D.</a>
+  photo: k_xiong.jpg
+  info: Professor, Department of Mathematics and Statistics
+  email: xiongk@usf.edu
+  number_educ: 2
+  education1: Ph.D., Computer Science, North Carolina State University
+  education2: Dr. Kaiqi Xiong's research interests lie in the broad areas of Security, Networking, and Big Data Analytics with a focus on experiments and modeling in cyber physical systems (e.g., power grids, emergency response, and transportation), user and attacker behavior analytics with social sciences, cvloud computing and mobile networks (e.g., smartphones), sensor networks (e.g., video/sensor surveillance for target tracking), Internet of Things (IoT) and cyberinfrastructures for smart cities, applied cryptography and theoretical foundation of computer science, and mathematical modeling and statistical data analysis for computer science, computer engineering, and health-care problems.
+
 - name: Yasin Yilmaz, Ph.D.
   photo: y_yilmaz.jpg
   info: Associate Professor, Department of Electrical Engineering
