@@ -27,7 +27,7 @@
   email: licato@usf.edu
   number_educ: 2
   education1: Ph.D., Computer Science, Rensselaer Polytechnic Institute
-  education2: Director, <a href="https://sites.google.com/view/amhr">Advancing Machine and Human Reasoning Lab</a>
+  education2: Director, <a href="https://sites.google.com/view/amhr" target="_blank">Advancing Machine and Human Reasoning Lab</a>
   
 - name: Ankur Mali, Ph.D.
   photo: Ankur_Mali_7.jpg
@@ -35,7 +35,7 @@
   email: ankurarjunmali@usf.edu
   number_educ: 2
   education1: Ph.D., Informatics, Pennsylvania State University, University Park
-  education2: Director, <a href="https://tkai-lab.github.io/">Trustworthy Knowledge-Driven Artificial Intelligence (TKAI) Lab</a>
+  education2: Director, <a href="https://tkai-lab.github.io/" target="_blank">Trustworthy Knowledge-Driven Artificial Intelligence (TKAI) Lab</a>
 
 - name: Tempestt Neal, Ph.D.
   photo: Neal-Headshot.jpeg
@@ -43,7 +43,7 @@
   email: tjneal@usf.edu
   number_educ: 3
   education1: Ph.D., Computer Engineering, University of Florida
-  education2: Director, <a href="https://tempestt-neal.github.io/ciber/">Cyber Identity and Behavior Research Lab</a>
+  education2: Director, <a href="https://tempestt-neal.github.io/ciber/" target="_blank">Cyber Identity and Behavior Research Lab</a>
   education3: Dr. Tempestt Neal's research focuses on mobile-based sensing for biometrics and human behavior understanding in interdisciplinary applications, with an emphasis on cybersecurity awareness among underrepresented populations in science and engineering. Her lab also conducts work in natural language processing (NLP), specializing in opinion mining using deep learning architectures to address challenging tasks such as implicit and cross-domain contexts.
 
 - name: Yasin Yilmaz, Ph.D.
@@ -52,6 +52,6 @@
   email: yasiny@usf.edu
   number_educ: 3
   education1: Ph.D., Electrical Engineering, Columbia University, New York, NY
-  education2: Director, <a href="http://sis.eng.usf.edu/">Secure and Intelligent Systems (SIS) Lab</a>
+  education2: Director, <a href="http://sis.eng.usf.edu/" target="_blank">Secure and Intelligent Systems (SIS) Lab</a>
   education3: Dr. Yasin Yilmaz's research interests include machine learning algorithms and applications in computer vision, cybersecurity, biomedical systems, intelligent transportation systems, energy systems, and communication systems. In terms of language intelligence and analytics research, Dr. Yilmaz investigates vision-language models for image and video understanding, multimodal models for biomedical datasets (e.g., electronic health records, radiology images, histopathology images, molecular data), and the security and robustness of language agents.  
 
