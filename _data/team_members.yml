@@ -1,11 +1,11 @@
-- name: Shaun Canavan, Ph.D.
+- name: <a href="www.cse.usf.edu/~scanavan" target="_blank">Shaun Canavan, Ph.D.</a>
   photo: s_canavan.jpg
   info: Associate Professor, Department of Computer Science and Engineering
   email: scanavan@usf.edu
   number_educ: 3
   education1: Ph.D., Computer Science, Binghamton University of Rochester
   education2: Faculty Member, <a href="http://www.eng.usf.edu/cvprg/people.html" target="_blank">Computer Vision and Pattern Recognition Group</a>
-  education3: Dr. Shaun Canavan's research focuses broadly on Affective Computing and Human-Computer Interaction, with research interest in sentiment analysis. He has over 60 publications in top conferences and journals such as CVPR, ICPR, ICMI, ACII, FG, Pattern Recognition Letters, IEEE Transactions on Visualization and Computer Graphics, and IEEE Transactions on Affective Computing. 
+  education3: Dr. Canavan's research focuses broadly on Affective Computing and Human-Computer Interaction, with research interest in sentiment analysis. He has over 60 publications in top conferences and journals such as CVPR, ICPR, ICMI, ACII, FG, Pattern Recognition Letters, IEEE Transactions on Visualization and Computer Graphics, and IEEE Transactions on Affective Computing. 
 
 - name: Zhao Han, Ph.D.
   photo: z_han.jpeg
@@ -14,7 +14,7 @@
   number_educ: 3
   education1: Ph.D., Computer Science, UMass Lowell
   education2: Director, <a href="https://therarelab.com/" target="_blank">Reality, Autonomy, and Robot Experience (RARE) Lab</a>
-  education3: Dr. Zhao Han's research lies broadly in human-robot interaction (HRI), augmented reality (AR), robotics, and AI. He focuses on designing, developing, and evaluating novel robotic systems and interactions, for embodied robots to be more capable and understandable while interacting, collaborating, and teaming up with humans. His group also studies natural language, mainly references, and through the lens of HRI. Their current work uses LLMs for a mental health story telling robot to be deployed to dorms.
+  education3: Dr. Han's research lies broadly in human-robot interaction (HRI), augmented reality (AR), robotics, and AI. He focuses on designing, developing, and evaluating novel robotic systems and interactions, for embodied robots to be more capable and understandable while interacting, collaborating, and teaming up with humans. His group also studies natural language, mainly references, and through the lens of HRI. Their current work uses LLMs for a mental health story telling robot to be deployed to dorms.
 
 - name: Seungbae Kim, Ph.D.
   photo: seungbae.jpg
@@ -46,15 +46,24 @@
   number_educ: 3
   education1: Ph.D., Computer Engineering, University of Florida
   education2: Director, <a href="https://tempestt-neal.github.io/ciber/" target="_blank">Cyber Identity and Behavior Research Lab</a>
-  education3: Dr. Tempestt Neal's research focuses on mobile-based sensing for biometrics and human behavior understanding in interdisciplinary applications, with an emphasis on cybersecurity awareness among underrepresented populations in science and engineering. Her lab also conducts work in natural language processing (NLP), specializing in opinion mining using deep learning architectures to address challenging tasks such as implicit and cross-domain contexts.
+  education3: Dr. Neal's research focuses on mobile-based sensing for biometrics and human behavior understanding in interdisciplinary applications, with an emphasis on cybersecurity awareness among underrepresented populations in science and engineering. Her lab also conducts work in natural language processing (NLP), specializing in opinion mining using deep learning architectures to address challenging tasks such as implicit and cross-domain contexts.
 
+- name: <a href="https://www.moffitt.org/research-science/researchers/thanh-thieu/" target="_blank">Thanh Thieu, Ph.D.</a>
+  photo: t_thieu.jpeg
+  info: Researcher, Health Outcomes & Behavior Program, Machine Learning Program, Moffitt Cancer Center
+  email: thanhthieu@usf.edu
+  number_educ: 3
+  education1: Ph.D., Computer Science, University of Missouri-Columbia
+  education2: Director, <a href="https://lab.moffitt.org/thieu/" target="_blank">Language and Intelligence Laboratory (LAILab)</a>
+  education3: Dr. Thieu’s research interests center on using natural language processing (NLP) to process free text clinical notes in electronic health records and free text scientific reports in (bio)medical literature. His research spans whole-person functional status information, knowledge graph extraction, high throughput text mining, lexical complexity and language generation, and computer-assisted coding for healthcare and medical billing.
+  
 - name: <a href="http://eng.usf.edu/~xiongk/" target="_blank">Kaiqi Xiong, Ph.D.</a>
   photo: k_xiong.jpg
   info: Professor, Department of Mathematics and Statistics
   email: xiongk@usf.edu
   number_educ: 2
   education1: Ph.D., Computer Science, North Carolina State University
-  education2: Dr. Kaiqi Xiong's research interests lie in the broad areas of Security, Networking, and Big Data Analytics with a focus on experiments and modeling in cyber physical systems (e.g., power grids, emergency response, and transportation), user and attacker behavior analytics with social sciences, cvloud computing and mobile networks (e.g., smartphones), sensor networks (e.g., video/sensor surveillance for target tracking), Internet of Things (IoT) and cyberinfrastructures for smart cities, applied cryptography and theoretical foundation of computer science, and mathematical modeling and statistical data analysis for computer science, computer engineering, and health-care problems.
+  education2: Dr. Xiong's research interests lie in the broad areas of Security, Networking, and Big Data Analytics with a focus on experiments and modeling in cyber physical systems (e.g., power grids, emergency response, and transportation), user and attacker behavior analytics with social sciences, cvloud computing and mobile networks (e.g., smartphones), sensor networks (e.g., video/sensor surveillance for target tracking), Internet of Things (IoT) and cyberinfrastructures for smart cities, applied cryptography and theoretical foundation of computer science, and mathematical modeling and statistical data analysis for computer science, computer engineering, and health-care problems.
 
 - name: Yasin Yilmaz, Ph.D.
   photo: y_yilmaz.jpg
@@ -63,5 +72,5 @@
   number_educ: 3
   education1: Ph.D., Electrical Engineering, Columbia University, New York, NY
   education2: Director, <a href="http://sis.eng.usf.edu/" target="_blank">Secure and Intelligent Systems (SIS) Lab</a>
-  education3: Dr. Yasin Yilmaz's research interests include machine learning algorithms and applications in computer vision, cybersecurity, biomedical systems, intelligent transportation systems, energy systems, and communication systems. In terms of language intelligence and analytics research, Dr. Yilmaz investigates vision-language models for image and video understanding, multimodal models for biomedical datasets (e.g., electronic health records, radiology images, histopathology images, molecular data), and the security and robustness of language agents.  
+  education3: Dr. Yilmaz's research interests include machine learning algorithms and applications in computer vision, cybersecurity, biomedical systems, intelligent transportation systems, energy systems, and communication systems. In terms of language intelligence and analytics research, Dr. Yilmaz investigates vision-language models for image and video understanding, multimodal models for biomedical datasets (e.g., electronic health records, radiology images, histopathology images, molecular data), and the security and robustness of language agents.  
 
