@@ -7,7 +7,7 @@
   education2: Faculty Member, <a href="http://www.eng.usf.edu/cvprg/people.html" target="_blank">Computer Vision and Pattern Recognition Group</a>
   education3: Dr. Canavan's research focuses broadly on Affective Computing and Human-Computer Interaction, with research interest in sentiment analysis. He has over 60 publications in top conferences and journals such as CVPR, ICPR, ICMI, ACII, FG, Pattern Recognition Letters, IEEE Transactions on Visualization and Computer Graphics, and IEEE Transactions on Affective Computing. 
 
-- name: Zhao Han, Ph.D.
+- name: <a href="https://zhaohanphd.com/" target="_blank">Zhao Han, Ph.D.</a>
   photo: z_han.jpeg
   info: Assistant Professor, Department of Computer Science and Engineering
   email: zhaohan@usf.edu
@@ -16,12 +16,13 @@
   education2: Director, <a href="https://therarelab.com/" target="_blank">Reality, Autonomy, and Robot Experience (RARE) Lab</a>
   education3: Dr. Han's research lies broadly in human-robot interaction (HRI), augmented reality (AR), robotics, and AI. He focuses on designing, developing, and evaluating novel robotic systems and interactions, for embodied robots to be more capable and understandable while interacting, collaborating, and teaming up with humans. His group also studies natural language, mainly references, and through the lens of HRI. Their current work uses LLMs for a mental health story telling robot to be deployed to dorms.
 
-- name: Seungbae Kim, Ph.D.
+- name: <a href="https://sites.google.com/site/sbkimcv/" target="_blank">Seungbae Kim, Ph.D.</a>
   photo: seungbae.jpg
   info: Assistant Professor, Department of Computer Science and Engineering
   email: seungbae@usf.edu
-  number_educ: 1
+  number_educ: 2
   education1: Ph.D., Computer Science, University of California, Los Angeles
+  education2: Dr. Kim's research interests include Research interests fairness in machine learning, explainable AI, data mining, including social media and web mining, and applied data science, particularly in online social networks and mental health applications. 
   
 - name: John Licato, Ph.D.
   photo: licato.jpeg
