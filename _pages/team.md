@@ -6,9 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-# Faculty
-
- **We are looking for new students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+# LIAN Members
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
