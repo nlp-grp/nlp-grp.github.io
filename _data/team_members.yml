@@ -28,9 +28,10 @@
   photo: licato.jpeg
   info: Associate Professor, Department of Computer Science and Engineering
   email: licato@usf.edu
-  number_educ: 2
+  number_educ: 3
   education1: Ph.D., Computer Science, Rensselaer Polytechnic Institute
   education2: Director, <a href="https://sites.google.com/view/amhr" target="_blank">Advancing Machine and Human Reasoning Lab</a>
+  education3: Dr. Licato is an artificial intelligence (AI) and natural language processing (NLP) researcher primarily interested in human-level reasoning; particularly, the kind of reasoning that we normally refer to as cognitive. This includes the following topics: computational modeling of cognitive reasoning; natural language processing; cognitive science and robotics; computational cognitive architectures; automated theorem provers; artificially intelligent reasoners; analogical, deductive, argumentative, and hypothetico-deductive reasoning; argumentation; legal reasoning; and artificial reasoning with both formal and informal logics.
   
 - name: <a href="https://ankurmali.github.io/" target="_blank">Ankur Mali, Ph.D.</a>
   photo: Ankur_Mali_7.jpg
