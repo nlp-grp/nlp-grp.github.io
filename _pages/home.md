@@ -6,11 +6,11 @@ sitemap: false
 permalink: /
 ---
 
-The Language Intelligence and Analytics Network (LIAN) is a vibrant interdisciplinary research initiative at the University of South Florida. LIAN unites researchers from diverse fields to tackle challenges in language and data intelligence, exploring areas such as multilingual applications, text analysis, natural language understanding, knowledge representation, computational semantics, information extraction, reasoning (formal, informal, and analogical), computational cognitive architectures, stylometry, authorship attribution, and opinion mining (implicit and explicit). Additionally, LIAN addresses domain-specific challenges, including clinical text mining, sentiment analysis, and automated assessment. By fostering collaboration through shared resources, a speaker series, and targeted funding initiatives, LIAN drives innovation and impactful research in language technologies.
+<img style="float: right" width="25%" margin="10px" src="/images/slider7001400/pic-3.png"> The Language Intelligence and Analytics Network (LIAN) is a vibrant interdisciplinary research initiative at the University of South Florida. LIAN unites researchers from diverse fields to tackle challenges in language and data intelligence, exploring areas such as multilingual applications, text analysis, natural language understanding, knowledge representation, computational semantics, information extraction, reasoning (formal, informal, and analogical), computational cognitive architectures, stylometry, authorship attribution, and opinion mining (implicit and explicit). Additionally, LIAN addresses domain-specific challenges, including clinical text mining, sentiment analysis, and automated assessment. By fostering collaboration through shared resources, a speaker series, and targeted funding initiatives, LIAN drives innovation and impactful research in language technologies.
 
 <img style="float: left" width="25%" margin="10px" src="/images/slider7001400/pic-1.png"> LIAN’s members specialize in diverse areas such as human-robot interaction, fairness in AI, medical informatics, multimodal machine learning, cybersecurity, and language modeling for healthcare and accessibility. By leveraging advanced computational infrastructure and interdisciplinary expertise, LIAN supports transformative research that addresses global challenges and empowers communities. Learn more about LIAN members and their expertise [here](https://nlp-grp.github.io/team/).
 
-LIAN’s research is supported by funding from various agencies, including [add funding agencies], enabling impactful projects that advance the field of language intelligence and analytics. In addition to producing cutting-edge research, LIAN is committed to mentoring graduate and undergraduate students, many of whom have gone on to work at leading organizations such as [add organizations]. LIAN members also teach key courses in [add course areas], preparing the next generation of experts in language technologies and AI.
+<img style="float: right" width="25%" margin="10px" src="/images/slider7001400/pic-2.png"> LIAN’s research is supported by funding from various agencies, including [add funding agencies], enabling impactful projects that advance the field of language intelligence and analytics. In addition to producing cutting-edge research, LIAN is committed to mentoring graduate and undergraduate students, many of whom have gone on to work at leading organizations such as [add organizations]. LIAN members also teach key courses in [add course areas], preparing the next generation of experts in language technologies and AI.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -26,15 +26,6 @@ LIAN’s research is supported by funding from various agencies, including [add 
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pic-1.png" alt="Slide 1" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pic-2.png" alt="Slide 2" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pic-3.png" alt="Slide 3" />
-        </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pic-4.png" alt="Slide 4" />
         </div>
