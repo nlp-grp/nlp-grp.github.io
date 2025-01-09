@@ -24,7 +24,7 @@
   education1: Ph.D., Computer Science, University of California, Los Angeles
   education2: Dr. Kim's research interests include fairness in machine learning, explainable AI, data mining, including social media and web mining, and applied data science, particularly in online social networks and mental health applications. 
   
-- name: John Licato, Ph.D.
+- name: <a href="https://cse.usf.edu/~licato/" target="_blank">John Licato, Ph.D.</a>
   photo: licato.jpeg
   info: Associate Professor, Department of Computer Science and Engineering
   email: licato@usf.edu
@@ -32,7 +32,7 @@
   education1: Ph.D., Computer Science, Rensselaer Polytechnic Institute
   education2: Director, <a href="https://sites.google.com/view/amhr" target="_blank">Advancing Machine and Human Reasoning Lab</a>
   
-- name: Ankur Mali, Ph.D.
+- name: <a href="https://ankurmali.github.io/" target="_blank">Ankur Mali, Ph.D.</a>
   photo: Ankur_Mali_7.jpg
   info: Assistant Professor, Department of Computer Science and Engineering
   email: ankurarjunmali@usf.edu
@@ -40,7 +40,7 @@
   education1: Ph.D., Informatics, Pennsylvania State University, University Park
   education2: Director, <a href="https://tkai-lab.github.io/" target="_blank">Trustworthy Knowledge-Driven Artificial Intelligence (TKAI) Lab</a>
 
-- name: Tempestt Neal, Ph.D.
+- name: <a href="https://cse.usf.edu/~tjneal/" target="_blank">Tempestt Neal, Ph.D.</a>
   photo: Neal-Headshot.jpeg
   info: Associate Professor, Department of Computer Science and Engineering
   email: tjneal@usf.edu
@@ -66,7 +66,7 @@
   education1: Ph.D., Computer Science, North Carolina State University
   education2: Dr. Xiong's research interests lie in the broad areas of Security, Networking, and Big Data Analytics with a focus on experiments and modeling in cyber physical systems (e.g., power grids, emergency response, and transportation), user and attacker behavior analytics with social sciences, cvloud computing and mobile networks (e.g., smartphones), sensor networks (e.g., video/sensor surveillance for target tracking), Internet of Things (IoT) and cyberinfrastructures for smart cities, applied cryptography and theoretical foundation of computer science, and mathematical modeling and statistical data analysis for computer science, computer engineering, and health-care problems.
 
-- name: Yasin Yilmaz, Ph.D.
+- name: <a href="https://faculty.eng.usf.edu/yasiny/" target="_blank">Yasin Yilmaz, Ph.D.</a>
   photo: y_yilmaz.jpg
   info: Associate Professor, Department of Electrical Engineering
   email: yasiny@usf.edu
