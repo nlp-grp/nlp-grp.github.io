@@ -4,17 +4,15 @@
   email: iberson@usf.edu
   number_educ: 2
   education1: Ph.D., Counseling with an emphasis in School Psychology, The University of Toledo
-  education2: Dr. Berson's research focuses on young children’s civic engagement, the integration of technology in early childhood education, and the development of digital citizenship and cybersecurity skills in schools. Her work explores the intersection of technology and pedagogy, emphasizing participatory methodologies, visual research, and social justice. Dr. Berson’s internationally recognized scholarship has informed digital resource design, classroom pedagogies, and policy discussions on children’s well-being in digital spaces. 
+  education2: Dr. Berson's research explores the intersection of technology, pedagogy, and equity in early childhood education. Her work investigates how emerging technologies, including artificial intelligence, multimodal tools, and language-based technologies, can foster inquiry, creativity, and inclusivity in PreK-12 contexts. Dr. Berson’s internationally recognized research emphasizes participatory methodologies, visual research, and digital citizenship, with a focus on leveraging tools like natural language processing, automated assessment, and sentiment analysis to promote multilingualism, developmental appropriateness, and accessibility.
   
-- name: <a href="www.cse.usf.edu/~scanavan" target="_blank">Shaun Canavan, Ph.D.</a>
-  photo: s_canavan.jpg
-  info: Associate Professor, Department of Computer Science and Engineering, College of Engineering
-  email: scanavan@usf.edu
-  number_educ: 3
-  education1: Ph.D., Computer Science, Binghamton University of Rochester
-  education2: Faculty Member, <a href="http://www.eng.usf.edu/cvprg/people.html" target="_blank">Computer Vision and Pattern Recognition Group</a>
-  education3: Dr. Canavan's research focuses broadly on Affective Computing and Human-Computer Interaction, with research interest in sentiment analysis. He has over 60 publications in top conferences and journals such as CVPR, ICPR, ICMI, ACII, FG, Pattern Recognition Letters, IEEE Transactions on Visualization and Computer Graphics, and IEEE Transactions on Affective Computing. 
-
+- name: <a href="www.cse.usf.edu/~scanavan" target="_blank">Michael Berson, Ph.D.</a>
+  photo: m_berson.jpg
+  info: Professor, Social Science and Elementary Education, College of Education
+  email: berson@usf.edu
+  number_educ: 2
+  education1: Ph.D., Curriculum and Instruction K-12, The University of Toledo
+  education2: Dr. Berson is an internationally recognized leader in social science education, technology integration, and global child advocacy. His research focuses on leveraging emerging technologies, including AI and language-based tools, to foster inquiry, creativity, and equity in education, with emphasis on multilingualism, inclusivity, and developmental appropriateness. 
 - name: <a href="www.cse.usf.edu/~scanavan" target="_blank">Shaun Canavan, Ph.D.</a>
   photo: s_canavan.jpg
   info: Associate Professor, Department of Computer Science and Engineering, College of Engineering
