@@ -1,4 +1,4 @@
-- name: <a href="www.cse.usf.edu/~scanavan" target="_blank">Ilene R. Berson, Ph.D.</a>
+- name: <a href="https://www.usf.edu/education/faculty/faculty-profiles/ilene-berson.aspx" target="_blank">Ilene R. Berson, Ph.D.</a>
   photo: i_berson.jpg
   info: Professor, Early Childhood Education, College of Education
   email: iberson@usf.edu
@@ -6,13 +6,14 @@
   education1: Ph.D., Counseling with an emphasis in School Psychology, The University of Toledo
   education2: Dr. Berson's research explores the intersection of technology, pedagogy, and equity in early childhood education. Her work investigates how emerging technologies, including artificial intelligence, multimodal tools, and language-based technologies, can foster inquiry, creativity, and inclusivity in PreK-12 contexts. Dr. Berson’s internationally recognized research emphasizes participatory methodologies, visual research, and digital citizenship, with a focus on leveraging tools like natural language processing, automated assessment, and sentiment analysis to promote multilingualism, developmental appropriateness, and accessibility.
   
-- name: <a href="www.cse.usf.edu/~scanavan" target="_blank">Michael Berson, Ph.D.</a>
+- name: <a href="https://www.usf.edu/education/faculty/faculty-profiles/michael-berson.aspx" target="_blank">Michael Berson, Ph.D.</a>
   photo: m_berson.jpg
   info: Professor, Social Science and Elementary Education, College of Education
   email: berson@usf.edu
   number_educ: 2
   education1: Ph.D., Curriculum and Instruction K-12, The University of Toledo
   education2: Dr. Berson is an internationally recognized leader in social science education, technology integration, and global child advocacy. His research focuses on leveraging emerging technologies, including AI and language-based tools, to foster inquiry, creativity, and equity in education, with emphasis on multilingualism, inclusivity, and developmental appropriateness. 
+
 - name: <a href="www.cse.usf.edu/~scanavan" target="_blank">Shaun Canavan, Ph.D.</a>
   photo: s_canavan.jpg
   info: Associate Professor, Department of Computer Science and Engineering, College of Engineering
@@ -65,6 +66,14 @@
   education1: Ph.D., Computer Engineering, University of Florida
   education2: Director, <a href="https://tempestt-neal.github.io/ciber/" target="_blank">Cyber Identity and Behavior Research Lab</a>
   education3: Dr. Neal's research focuses on mobile-based sensing for biometrics and human behavior understanding in interdisciplinary applications, with an emphasis on cybersecurity awareness among underrepresented populations in science and engineering. Her lab also conducts work in natural language processing (NLP), specializing in opinion mining using deep learning architectures to address challenging tasks such as implicit and cross-domain contexts.
+
+- name: <a href="https://www.usf.edu/business/about/bios/sheybani-ehsan.aspx" target="_blank">Ehsan Sheybani Ph.D.</a>
+  photo: e_sheybani.jpg
+  info: Professor, School of Information Systems and Management, Muma College of Business
+  email: sheybani@usf.edu
+  number_educ: 2
+  education1: Ph.D., Electrical Engineering, University of Florida
+  education2: Dr. Sheybani's primary research areas include communication, signal processing, and data analysis. He has been involved in teaching, practicing, researching, and consulting DSP applications in technology, systems analysis, and data science for the past 20 years.
 
 - name: <a href="https://www.moffitt.org/research-science/researchers/thanh-thieu/" target="_blank">Thanh Thieu, Ph.D.</a>
   photo: t_thieu.png
