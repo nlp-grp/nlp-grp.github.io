@@ -1,6 +1,23 @@
+- name: <a href="www.cse.usf.edu/~scanavan" target="_blank">Ilene R. Berson, Ph.D.</a>
+  photo: i_berson.jpg
+  info: Professor, Early Childhood Education, College of Education
+  email: iberson@usf.edu
+  number_educ: 2
+  education1: Ph.D., Counseling with an emphasis in School Psychology, The University of Toledo
+  education2: Dr. Berson's research focuses on young children’s civic engagement, the integration of technology in early childhood education, and the development of digital citizenship and cybersecurity skills in schools. Her work explores the intersection of technology and pedagogy, emphasizing participatory methodologies, visual research, and social justice. Dr. Berson’s internationally recognized scholarship has informed digital resource design, classroom pedagogies, and policy discussions on children’s well-being in digital spaces. 
+  
 - name: <a href="www.cse.usf.edu/~scanavan" target="_blank">Shaun Canavan, Ph.D.</a>
   photo: s_canavan.jpg
-  info: Associate Professor, Department of Computer Science and Engineering
+  info: Associate Professor, Department of Computer Science and Engineering, College of Engineering
+  email: scanavan@usf.edu
+  number_educ: 3
+  education1: Ph.D., Computer Science, Binghamton University of Rochester
+  education2: Faculty Member, <a href="http://www.eng.usf.edu/cvprg/people.html" target="_blank">Computer Vision and Pattern Recognition Group</a>
+  education3: Dr. Canavan's research focuses broadly on Affective Computing and Human-Computer Interaction, with research interest in sentiment analysis. He has over 60 publications in top conferences and journals such as CVPR, ICPR, ICMI, ACII, FG, Pattern Recognition Letters, IEEE Transactions on Visualization and Computer Graphics, and IEEE Transactions on Affective Computing. 
+
+- name: <a href="www.cse.usf.edu/~scanavan" target="_blank">Shaun Canavan, Ph.D.</a>
+  photo: s_canavan.jpg
+  info: Associate Professor, Department of Computer Science and Engineering, College of Engineering
   email: scanavan@usf.edu
   number_educ: 3
   education1: Ph.D., Computer Science, Binghamton University of Rochester
@@ -9,7 +26,7 @@
 
 - name: <a href="https://zhaohanphd.com/" target="_blank">Zhao Han, Ph.D.</a>
   photo: z_han.jpeg
-  info: Assistant Professor, Department of Computer Science and Engineering
+  info: Assistant Professor, Department of Computer Science and Engineering, College of Engineering
   email: zhaohan@usf.edu
   number_educ: 3
   education1: Ph.D., Computer Science, UMass Lowell
@@ -18,7 +35,7 @@
 
 - name: <a href="https://sites.google.com/site/sbkimcv/" target="_blank">Seungbae Kim, Ph.D.</a>
   photo: seungbae.jpg
-  info: Assistant Professor, Department of Computer Science and Engineering
+  info: Assistant Professor, Department of Computer Science and Engineering, College of Engineering
   email: seungbae@usf.edu
   number_educ: 2
   education1: Ph.D., Computer Science, University of California, Los Angeles
@@ -26,7 +43,7 @@
   
 - name: <a href="https://cse.usf.edu/~licato/" target="_blank">John Licato, Ph.D.</a>
   photo: licato.jpeg
-  info: Associate Professor, Department of Computer Science and Engineering
+  info: Associate Professor, Department of Computer Science and Engineering, College of Engineering
   email: licato@usf.edu
   number_educ: 3
   education1: Ph.D., Computer Science, Rensselaer Polytechnic Institute
@@ -35,7 +52,7 @@
   
 - name: <a href="https://ankurmali.github.io/" target="_blank">Ankur Mali, Ph.D.</a>
   photo: Ankur_Mali_7.jpg
-  info: Assistant Professor, Department of Computer Science and Engineering
+  info: Assistant Professor, Department of Computer Science and Engineering, College of Engineering
   email: ankurarjunmali@usf.edu
   number_educ: 3
   education1: Ph.D., Informatics, Pennsylvania State University, University Park
@@ -44,7 +61,7 @@
 
 - name: <a href="https://cse.usf.edu/~tjneal/" target="_blank">Tempestt Neal, Ph.D.</a>
   photo: Neal-Headshot.jpeg
-  info: Associate Professor, Department of Computer Science and Engineering
+  info: Associate Professor, Department of Computer Science and Engineering, College of Engineering
   email: tjneal@usf.edu
   number_educ: 3
   education1: Ph.D., Computer Engineering, University of Florida
@@ -62,7 +79,7 @@
   
 - name: <a href="http://eng.usf.edu/~xiongk/" target="_blank">Kaiqi Xiong, Ph.D.</a>
   photo: k_xiong.jpg
-  info: Professor, Department of Mathematics and Statistics
+  info: Professor, Department of Mathematics and Statistics, College of Arts and Sciences
   email: xiongk@usf.edu
   number_educ: 2
   education1: Ph.D., Computer Science, North Carolina State University
@@ -70,7 +87,7 @@
 
 - name: <a href="https://faculty.eng.usf.edu/yasiny/" target="_blank">Yasin Yilmaz, Ph.D.</a>
   photo: y_yilmaz.jpg
-  info: Associate Professor, Department of Electrical Engineering
+  info: Associate Professor, Department of Electrical Engineering, College of Engineering
   email: yasiny@usf.edu
   number_educ: 3
   education1: Ph.D., Electrical Engineering, Columbia University, New York, NY
