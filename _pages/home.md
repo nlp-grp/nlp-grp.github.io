@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-# Welcome to The Language Intelligence and Analytics Network at the University of South Florida 
+# **Welcome to The Language Intelligence and Analytics Network at the University of South Florida**
 
 The Language Intelligence and Analytics Network (LIAN) is an interdisciplinary research initiative at the University of South Florida. LIAN unites researchers from diverse fields to tackle challenges in language and data intelligence, exploring areas such as multilingual applications, text analysis, natural language understanding, knowledge representation, computational semantics, information extraction, reasoning (formal, informal, and analogical), computational cognitive architectures, stylometry, authorship attribution, and opinion mining (implicit and explicit). Additionally, LIAN addresses domain-specific challenges, including clinical text mining, sentiment analysis, and automated assessment. By fostering collaboration through shared resources, a speaker series, and targeted funding initiatives, LIAN drives innovation and impactful research in language technologies.
 
@@ -61,4 +61,7 @@ LIAN encompasses diverse research areas that leverage interdisciplinary expertis
 #### **Knowledge Representation and Reasoning**  
 - Advancing machine and human reasoning through analogical, deductive, and informal methods.  
 - Building cognitive architectures and AI-based reasoning methods.  
-- Knowledge graph extraction and high-throughput text mining.  
+- Knowledge graph extraction and high-throughput text mining.
+
+<br>
+<br>
