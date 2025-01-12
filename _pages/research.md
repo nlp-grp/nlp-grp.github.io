@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-# **Research**
+# **Core Areas of Research**
 
 LIAN is dedicated to advancing the frontier of language and data intelligence through interdisciplinary research and collaboration. By bringing together experts from diverse fields such as computer science, linguistics, psychology, and education, LIAN researchers address some of the most pressing challenges in natural language processing, multilingual applications, and knowledge representation.
 
