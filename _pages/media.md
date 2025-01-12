@@ -1,21 +1,17 @@
 ---
-title: "NLP Group @ USF - Vacancies"
+title: "Media"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /vacancies
+permalink: /media
 ---
 
-# Research Group Media Page
-
-Welcome to our Media Page! Here, you'll find the latest videos, news articles, and other media highlighting our research, achievements, and collaborations.
-
----
+# **Media**
 
 ## 📹 Featured Videos
 
-### [Title of Video 1](https://example.com/video1)
-**Description:** A brief explanation of the video content, showcasing one of our major projects or events.
+### [Identifying AI-Generated Content](https://www.youtube.com/watch?v=_acibRWfch8)
+**Description:** Dr. John Licato explores whether we can determine if content—text, images, video, or voice—is AI- or human-generated during a talk at the Ringling College of Art and Design. Will there come a time when distinguishing between the two is entirely impossible?
 
 ### [Title of Video 2](https://example.com/video2)
 **Description:** Another featured video that highlights our research group's impact or a conference talk.
