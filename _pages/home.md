@@ -21,7 +21,7 @@ LIAN’s research is supported by funding from various agencies, including [add 
 
 We are proud to collaborate with leading universities and industry partners to drive innovation and foster impactful research. These collaborations allow us to expand our reach, share knowledge, and contribute to advancements across various application areas.
 
-<table>
+<table style="width: 80%; margin: 0 auto;">
   <tr>
     <td><img src="/images/moffitt.jpg" alt="Moffitt" width="25%"></td>
     <td><img src="/images/placeholder.jpg" alt="Image 2" width="25%"></td>
@@ -38,3 +38,4 @@ We are proud to collaborate with leading universities and industry partners to d
     <td><img src="/images/placeholder.jpg" alt="Image 9" width="25%"></td>
   </tr>
 </table>
+
