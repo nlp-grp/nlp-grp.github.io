@@ -41,10 +41,12 @@ Dr. John Licato explores whether we can determine if content—text, images, vid
 
 ---
 
-## 🏆 Selected Publications
+## 🏆 Featured Publications
 
 - Luo, W., He, H., Liu, J., Berson, I. R., Berson, M. J., Zhou, Y., & Li, H. (2023). Aladdin’s Genie or Pandora’s Box for Early Childhood Education? Experts Chat on the Roles, Challenges, and Developments of ChatGPT. Early Education and Development, 35(1), 96–113. https://doi.org/10.1080/10409289.2023.2214181
-
+  
+- Mahammed Kamruzzaman, Md. Shovon, and Gene Kim. 2024. Investigating Subtler Biases in LLMs: Ageism, Beauty, Institutional, and Nationality Bias in Generative Models. In Findings of the Association for Computational Linguistics: ACL 2024, pages 8940–8965, Bangkok, Thailand. Association for Computational Linguistics.
+  
 - Tempestt Neal, Kalaivani Sundararajan, Aneez Fatima, Yiming Yan, Yingfei Xiang, and Damon Woodard. 2017. Surveying Stylometry Techniques and Applications. ACM Comput. Surv. 50, 6, Article 86 (November 2018), 36 pages. https://doi.org/10.1145/3132039
 
 ---
