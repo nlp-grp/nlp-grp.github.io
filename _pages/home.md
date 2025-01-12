@@ -19,9 +19,20 @@ LIAN’s research is supported by funding from various agencies, including [add 
 ## LIAN Collaborators
 ---
 
-| ![Moffitt](/images/moffitt.jpg) | ![Image 2](image2_url) | ![Image 3](image3_url) |
-|------------------------|------------------------|------------------------|
-| ![Image 4](image4_url) | ![Image 5](image5_url) | ![Image 6](image6_url) |
-|------------------------|------------------------|------------------------|
-| ![Image 7](image7_url) | ![Image 8](image8_url) | ![Image 9](image9_url) |
-
+<table>
+  <tr>
+    <td><img src="/images/moffitt.jpg" alt="Moffitt" width="25%"></td>
+    <td><img src="image2_url" alt="Image 2" width="25%"></td>
+    <td><img src="image3_url" alt="Image 3" width="25%"></td>
+  </tr>
+  <tr>
+    <td><img src="image4_url" alt="Image 4" width="25%"></td>
+    <td><img src="image5_url" alt="Image 5" width="25%"></td>
+    <td><img src="image6_url" alt="Image 6" width="25%"></td>
+  </tr>
+  <tr>
+    <td><img src="image7_url" alt="Image 7" width="25%"></td>
+    <td><img src="image8_url" alt="Image 8" width="25%"></td>
+    <td><img src="image9_url" alt="Image 9" width="25%"></td>
+  </tr>
+</table>
