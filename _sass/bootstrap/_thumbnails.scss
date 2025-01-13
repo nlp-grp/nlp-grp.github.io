@@ -11,7 +11,7 @@
   line-height: $line-height-base;
   background-color: $thumbnail-bg;
   border: 1px solid $thumbnail-border;
-  border-radius: $thumbnail-border-radius;
+  border-radius: 50%; // Changed to circular shape
   @include transition(border .2s ease-in-out);
 
   > img,
@@ -19,9 +19,11 @@
     @include img-responsive;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 50%; // Make images circular
+    width: 100px; // Set fixed width
+    height: 100px; // Set fixed height to match width
+    object-fit: cover; // Ensure the image fills the circle without distortion
   }
-
-  // [converter] extracted a&:hover, a&:focus, a&.active to a.thumbnail:hover, a.thumbnail:focus, a.thumbnail.active
 
   // Image captions
   .caption {
