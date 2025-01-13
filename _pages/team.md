@@ -1,7 +1,7 @@
 ---
-title: "NLP Group @ USF"
+title: "People"
 layout: gridlay
-excerpt: "NLP Group @ USF: Team members"
+excerpt: "People"
 sitemap: false
 permalink: /team/
 ---
