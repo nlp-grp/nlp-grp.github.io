@@ -1,7 +1,7 @@
 ---
-title: "NLP Group @ USF - Research"
+title: "Research"
 layout: textlay
-excerpt: "NLP Group @ USF -- Research"
+excerpt: "Research"
 sitemap: false
 permalink: /research/
 ---
