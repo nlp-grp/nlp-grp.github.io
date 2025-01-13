@@ -23,6 +23,14 @@
   education2: Faculty Member, <a href="http://www.eng.usf.edu/cvprg/people.html" target="_blank">Computer Vision and Pattern Recognition Group</a>
   education3: Dr. Canavan's research focuses broadly on Affective Computing and Human-Computer Interaction, with research interest in sentiment analysis. He has over 60 publications in top conferences and journals such as CVPR, ICPR, ICMI, ACII, FG, Pattern Recognition Letters, IEEE Transactions on Visualization and Computer Graphics, and IEEE Transactions on Affective Computing. 
 
+- name: <a href="https://www.anshumanc.com/" target="_blank">Anshuman Chabra, Ph.D.</a>
+  photo: anshuman.jpg
+  info: Assistant Professor, Department of Computer Science and Engineering, College of Engineering
+  email: zhaohan@usf.edu
+  number_educ: 2
+  education1: Ph.D., Computer Science, UC Davis
+  education3: Dr. Chabra's research primarily focuses on holistically improving next-generation AI models, such as LLMs, with respect to multiple qualitative facets, such as utility, fairness, robustness, and security. He develops data-centric learning approaches that can benefit a large class of AI models in multiple domains such as Natural Language Processing and Computer Vision. 
+
 - name: <a href="https://zhaohanphd.com/" target="_blank">Zhao Han, Ph.D.</a>
   photo: z_han.jpeg
   info: Assistant Professor, Department of Computer Science and Engineering, College of Engineering
