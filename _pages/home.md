@@ -21,21 +21,38 @@ LIAN’s research is supported by funding from various agencies, including [add 
 
 We are proud to collaborate with leading universities and industry partners to drive innovation and foster impactful research. These collaborations allow us to expand our reach, share knowledge, and contribute to advancements across various application areas.
 
-<table style="width: 80%; margin: 0 auto;">
+<table style="width: 60%; margin: 0 auto; border-collapse: collapse; table-layout: fixed;">
   <tr>
-    <td><img src="/images/moffitt.jpg" alt="Moffitt" width="25%"></td>
-    <td><img src="/images/placeholder.jpg" alt="Image 2" width="25%"></td>
-    <td><img src="/images/placeholder.jpg" alt="Image 3" width="25%"></td>
+    <td style="width: 33.33%; height: 150px; text-align: center;">
+      <img src="/images/moffitt.jpg" alt="Moffitt" style="max-width: 100%; max-height: 100%;">
+    </td>
+    <td style="width: 33.33%; height: 150px; text-align: center;">
+      <img src="/images/placeholder.jpg" alt="Image 2" style="max-width: 100%; max-height: 100%;">
+    </td>
+    <td style="width: 33.33%; height: 150px; text-align: center;">
+      <img src="/images/placeholder.jpg" alt="Image 3" style="max-width: 100%; max-height: 100%;">
+    </td>
   </tr>
   <tr>
-    <td><img src="/images/placeholder.jpg" alt="Image 4" width="25%"></td>
-    <td><img src="/images/placeholder.jpg" alt="Image 5" width="25%"></td>
-    <td><img src="/images/placeholder.jpg" alt="Image 6" width="25%"></td>
+    <td style="width: 33.33%; height: 150px; text-align: center;">
+      <img src="/images/placeholder.jpg" alt="Image 4" style="max-width: 100%; max-height: 100%;">
+    </td>
+    <td style="width: 33.33%; height: 150px; text-align: center;">
+      <img src="/images/placeholder.jpg" alt="Image 5" style="max-width: 100%; max-height: 100%;">
+    </td>
+    <td style="width: 33.33%; height: 150px; text-align: center;">
+      <img src="/images/placeholder.jpg" alt="Image 6" style="max-width: 100%; max-height: 100%;">
+    </td>
   </tr>
   <tr>
-    <td><img src="/images/placeholder.jpg" alt="Image 7" width="25%"></td>
-    <td><img src="/images/placeholder.jpg" alt="Image 8" width="25%"></td>
-    <td><img src="/images/placeholder.jpg" alt="Image 9" width="25%"></td>
+    <td style="width: 33.33%; height: 150px; text-align: center;">
+      <img src="/images/placeholder.jpg" alt="Image 7" style="max-width: 100%; max-height: 100%;">
+    </td>
+    <td style="width: 33.33%; height: 150px; text-align: center;">
+      <img src="/images/placeholder.jpg" alt="Image 8" style="max-width: 100%; max-height: 100%;">
+    </td>
+    <td style="width: 33.33%; height: 150px; text-align: center;">
+      <img src="/images/placeholder.jpg" alt="Image 9" style="max-width: 100%; max-height: 100%;">
+    </td>
   </tr>
 </table>
-
