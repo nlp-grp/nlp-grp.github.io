@@ -16,7 +16,6 @@ The University of South Florida NLP Group is an interdisciplinary research initi
 Our research is supported by funding from various agencies, including [add funding agencies], enabling impactful projects that advance the field of language intelligence and analytics. In addition to producing cutting-edge research, we are committed to mentoring graduate and undergraduate students, many of whom have gone on to work at leading organizations such as [add organizations]. We also teach key courses in [add course areas], preparing the next generation of experts in language technologies and AI.
 
 #### **Collaborators and Partners**
----
 
 We are proud to collaborate with leading universities and industry partners to drive innovation and foster impactful research. These collaborations allow us to expand our reach, share knowledge, and contribute to advancements across various application areas.
 
