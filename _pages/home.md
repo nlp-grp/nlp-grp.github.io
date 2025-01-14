@@ -29,7 +29,7 @@ We are proud to collaborate with leading universities and industry partners to d
       <a href="https://www.actualization.ai/"><img src="/images/actualization-ai-logo.jpg" alt="Actualization AI" style="max-width: 100%; max-height: 100%;"></a>
     </td>
     <td style="width: 33.33%; height: 150px; text-align: center;">
-      <img src="/images/placeholder.jpg" alt="Image 3" style="max-width: 100%; max-height: 100%;">
+      <a href="https://aix.eng.usf.edu/"><img src="/images/aix.png" alt="AI+X" style="max-width: 100%; max-height: 100%;"></a>
     </td>
   </tr>
   <tr>
