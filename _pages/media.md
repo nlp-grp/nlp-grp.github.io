@@ -6,9 +6,10 @@ sitemap: false
 permalink: /media
 ---
 
-# **Media**
+## **Media**
+---
 
-## Featured Videos
+### Featured Videos
 
 ### [Identifying AI-Generated Content](https://www.youtube.com/watch?v=_acibRWfch8)
 Dr. John Licato explores whether we can determine if content—text, images, video, or voice—is AI- or human-generated during a talk at the Ringling College of Art and Design. Will there come a time when distinguishing between the two is entirely impossible?
@@ -18,21 +19,21 @@ Dr. John Licato explores whether we can determine if content—text, images, vid
 
 ---
 
-## News Articles
+### News Articles
 
-### ["Title of Article 1"](https://example.com/article1)
+#### ["Title of Article 1"](https://example.com/article1)
 **Published by:** Publication Name  
 **Date:** January 1, 2025  
 **Summary:** A quick summary of the news article and its relevance to our work.
 
-### ["Title of Article 2"](https://example.com/article2)
+#### ["Title of Article 2"](https://example.com/article2)
 **Published by:** Publication Name  
 **Date:** February 15, 2025  
 **Summary:** Another article that highlights an exciting development or achievement.
 
 ---
 
-## Podcasts & Interviews
+### Podcasts & Interviews
 
 ### [Podcast/Interview Title](https://example.com/podcast1)
 **Host:** Host Name  
@@ -41,7 +42,7 @@ Dr. John Licato explores whether we can determine if content—text, images, vid
 
 ---
 
-## Featured Publications
+### Featured Publications
 
 - Luo, W., He, H., Liu, J., Berson, I. R., Berson, M. J., Zhou, Y., & Li, H. (2023). Aladdin’s Genie or Pandora’s Box for Early Childhood Education? Experts Chat on the Roles, Challenges, and Developments of ChatGPT. Early Education and Development, 35(1), 96–113. https://doi.org/10.1080/10409289.2023.2214181
   
