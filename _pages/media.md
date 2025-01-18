@@ -14,9 +14,6 @@ permalink: /media
 ### [Identifying AI-Generated Content](https://www.youtube.com/watch?v=_acibRWfch8)
 Dr. John Licato explores whether we can determine if content—text, images, video, or voice—is AI- or human-generated during a talk at the Ringling College of Art and Design. Will there come a time when distinguishing between the two is entirely impossible?
 
-### [Title of Video 2](https://example.com/video2)
-**Description:** Another featured video that highlights our research group's impact or a conference talk.
-
 ---
 
 ### News Articles
@@ -33,16 +30,13 @@ Dr. John Licato explores whether we can determine if content—text, images, vid
 
 ---
 
-### Podcasts & Interviews
-
-### [Podcast/Interview Title](https://example.com/podcast1)
-**Host:** Host Name  
-**Guest:** Guest Name (Research Group Member)  
-**Description:** A brief overview of the podcast or interview and the topics discussed.
-
----
-
 ### Featured Publications
+
+- Zitu MM, Le TD, Duong T, Haddadan S, Garcia M, Amorrortu R, Zhao Y, Rollison DE, Thieu T. Large language models in cancer: potentials, risks, and safeguards. BJR Artif Intell. 2024 Dec 20;2(1):ubae019. doi: 10.1093/bjrai/ubae019. PMID: 39777117; PMCID: PMC11703354.
+
+- Thieu T, Maldonado JC, Ho PS, Ding M, Marr A, Brandt D, Newman-Griffis D, Zirikly A, Chan L, Rasch E. A comprehensive study of mobility functioning information in clinical notes: Entity hierarchy, corpus annotation, and sequence labeling. Int J Med Inform. 2021 Mar;147:104351. doi: 10.1016/j.ijmedinf.2020.104351. Epub 2020 Dec 24. PMID: 33401169; PMCID: PMC8104034.
+
+- Parush Gera and Tempestt Neal. 2022. A Comparative Analysis of Stance Detection Approaches and Datasets. In Proceedings of the 3rd Workshop on Evaluation and Comparison of NLP Systems, pages 58–69, Online. Association for Computational Linguistics. https://aclanthology.org/2022.eval4nlp-1.7/
 
 - Luo, W., He, H., Liu, J., Berson, I. R., Berson, M. J., Zhou, Y., & Li, H. (2023). Aladdin’s Genie or Pandora’s Box for Early Childhood Education? Experts Chat on the Roles, Challenges, and Developments of ChatGPT. Early Education and Development, 35(1), 96–113. https://doi.org/10.1080/10409289.2023.2214181
   
@@ -61,5 +55,3 @@ Dr. John Licato explores whether we can determine if content—text, images, vid
 - Berson, I. R., Berson, M. J., Luo, W., & He, H. (2023). Intelligence augmentation in early childhood education: A multimodal creative inquiry approach. In N. Wang, G. Rebolledo-Mendez, V. Dimitrova, N. Matsuda, & O. C. Santos (Eds.), Communications in Computer and Information Science, vol 1831 (pp. 756-763). Springer, Cham. https://doi.org/10.1007/978-3-031-36336-8_116
 
 - Berson, I. R., Berson, M. J., Connors, B. C., Reed, L. E., Almuthibi, F. H., & Alahmdi, O. A. (2023). Using mixed reality to create multimodal learning experiences for early childhood. In T. Cherner & A. Fegely, Bridging the XR Technology-to-Practice Gap Vol. 2 (pp. 151-162). Association for the Advancement of Computing in Education.
-
----
