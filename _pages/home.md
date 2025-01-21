@@ -33,7 +33,7 @@ We are proud to collaborate with leading universities and industry partners to d
   </tr>
   <tr>
     <td style="width: 33.33%; height: 150px; text-align: center; padding: 5px">
-      <img src="/images/placeholder.jpg" alt="Image 4" style="max-width: 100%; max-height: 100%;">
+      <img src="/images/tpa.png" alt="Tampa Public Housing Authority" style="max-width: 100%; max-height: 100%;">
     </td>
     <td style="width: 33.33%; height: 150px; text-align: center; padding: 5px">
       <img src="/images/placeholder.jpg" alt="Image 5" style="max-width: 100%; max-height: 100%;">
