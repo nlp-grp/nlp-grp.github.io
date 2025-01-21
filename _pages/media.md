@@ -18,6 +18,18 @@ Dr. John Licato explores whether we can determine if content—text, images, vid
 
 ### Selected Publications
 
+- King, J.R., Burger, L., & Schneider, J.J. (in press). Second-order multimodal discourse synthesis: How ideas become embodied actions of writing teachers as human-centered designers. In Castek, J., Coiro, J., Hagerman, M.S., Kiili, C., Sparks, J.R. (Eds.). _International Handbook of Research in Digital Literacies._ Routledge.
+
+- Osvath, C. & Schneider, J.J. (2023). Children’s literature in immersive technologies: Stories as magical spaces for diversity and inclusion. In A. Gunn & S. Bennett (Eds.). _Teaching Multicultural Children’s Literature in a Diverse Society: From Historical Perspective to Instructional Practice._ Routledge.
+
+- Burger, L., Schneider, J.J., King., J.R. (December, 2024). AI Content Creation and Multimodal Text Production: Composing Strategies of Black Youth in a VR Gaming Club. Paper presented at the _Annual Conference of the Literacy Research Association_, Atlanta, GA.
+
+- Schneider, J.J., Burger, L., King, J.R. (December, 2024). Creating Future Cities with AI: How Black Youth Composed Imagined Environments as Emerging Engineers. Paper presented at the _Annual Conference of the Literacy Research Association_, Atlanta, GA.
+
+- Schneider, J.J., King, J.R., Burger, L. (April 2024). Negotiating AI outputs to engineer future cities: Black youth as composing agents. Paper presented at the _Annual Conference at American Education Research Association_. Philadelphia, PA.
+
+- Schneider, J.J., King, J.R., Burger, L. (December, 2023). Cultivating literacies of Black game developers: A design-based study in composing and critical media literacies for youth. Paper presented at the _Annual Conference of the Literacy Research Association_. Atlanta, GA.
+
 - Zitu MM, Le TD, Duong T, Haddadan S, Garcia M, Amorrortu R, Zhao Y, Rollison DE, Thieu T. [Large language models in cancer: potentials, risks, and safeguards.](https://doi.org/10.1093/bjrai/ubae019) _BJR Artif Intell._ 2024 Dec 20;2(1):ubae019. doi: 10.1093/bjrai/ubae019. PMID: 39777117; PMCID: PMC11703354.
 
 - Thieu T, Maldonado JC, Ho PS, Ding M, Marr A, Brandt D, Newman-Griffis D, Zirikly A, Chan L, Rasch E. [A comprehensive study of mobility functioning information in clinical notes: Entity hierarchy, corpus annotation, and sequence labeling.](https://doi.org/10.1016/j.ijmedinf.2020.104351) _Int J Med Inform._ 2021 Mar;147:104351. doi: 10.1016/j.ijmedinf.2020.104351. Epub 2020 Dec 24. PMID: 33401169; PMCID: PMC8104034.
