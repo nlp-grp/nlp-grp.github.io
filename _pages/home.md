@@ -6,16 +6,16 @@ sitemap: false
 permalink: /
 ---
 
-<span><style="font-size: 20px; padding-top: 12px; display: flex; align-items: center; text-decoration: none;" 
+<span style="font-size: 24px; padding-top: 12px; display: flex; align-items: center; text-decoration: none;" 
 	   href="{{ site.url }}{{ site.baseurl }}/">
 	  <img src="/images/icon.png" 
 	       alt="Logo" 
 	       style="height: 50px; margin-right: 10px;">
 	  <span>
 	    The <span style="font-weight: bold; color: #006747;">University of South Florida</span>
-	    <span style="font-weight: bold; font-size:16px; color: #006747;">N</span>atural 
-	    <span style="font-weight: bold; font-size:16px; color: #006747;">L</span>anguage 
-	    <span style="font-weight: bold; font-size:16px; color: #006747;">P</span>rocessing 
+	    <span style="font-weight: bold; font-size:26px; color: #006747;">N</span>atural 
+	    <span style="font-weight: bold; font-size:26px; color: #006747;">L</span>anguage 
+	    <span style="font-weight: bold; font-size:26px; color: #006747;">P</span>rocessing 
 	    Group
 	  </span>
 ---
