@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-## **The University of South Florida NLP Group**
+## **The University of South Florida Natural Language Processing Group**
 ---
 
 The University of South Florida NLP Group is an interdisciplinary research initiative uniting USF researchers from diverse fields to tackle challenges in natural language processing and language and data intelligence. We explore areas such as multilingual applications, text analysis, natural language understanding, knowledge representation, computational semantics, information extraction, formal, informal, and analogical reasoning, computational cognitive architectures, stylometry, authorship attribution, and implicit and explicit opinion mining. USF NLP researchers specialize in diverse areas such as human-robot interaction, fairness in AI, medical informatics, multimodal machine learning, cybersecurity, and language modeling. By leveraging advanced computational infrastructure and interdisciplinary expertise, the USF NLP group conducts transformative research that addresses global challenges and empowers communities. 
