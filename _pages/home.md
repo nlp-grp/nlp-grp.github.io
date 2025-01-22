@@ -12,7 +12,7 @@ permalink: /
 	       alt="Logo" 
 	       style="height: 50px; margin-right: 10px;">
 	  <span>
-	    The <span style="font-weight: bold; color: #006747;">University of South Florida</span>
+	    The <span style="font-size: 24px; font-weight: bold; color: #006747;">University of South Florida</span>
 	    <span style="font-weight: bold; font-size:26px; color: #006747;">N</span>atural 
 	    <span style="font-weight: bold; font-size:26px; color: #006747;">L</span>anguage 
 	    <span style="font-weight: bold; font-size:26px; color: #006747;">P</span>rocessing 
