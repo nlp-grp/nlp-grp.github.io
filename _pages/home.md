@@ -30,15 +30,15 @@ Our research is supported by funding from various agencies, including [add fundi
 
 We are proud to collaborate with leading universities and industry partners to drive innovation and foster impactful research. These collaborations allow us to expand our reach, share knowledge, and contribute to advancements across various application areas.
 
-<table style="width: 60%; margin: 0 auto; border-collapse: collapse; table-layout: fixed;">
+<table style="width: 80%; margin: 0 auto; border-collapse: collapse; table-layout: fixed;">
   <tr>
-    <td style="width: 33.33%; height: 150px; text-align: center; padding: 5px">
+    <td style="width: 33.33%; text-align: center; padding: 5px">
       <a href="https://www.moffitt.org/"><img src="/images/moffitt.jpg" alt="Moffitt" style="max-width: 100%; max-height: 100%;"></a>
     </td>
-    <td style="width: 33.33%; height: 150px; text-align: center; padding: 5px">
+    <td style="width: 33.33%; text-align: center; padding: 5px">
       <a href="https://www.actualization.ai/"><img src="/images/actualization-ai-logo.jpg" alt="Actualization AI" style="max-width: 100%; max-height: 100%;"></a>
     </td>
-    <td style="width: 33.33%; height: 150px; text-align: center; padding: 5px">
+    <td style="width: 33.33%; text-align: center; padding: 5px">
       <a href="https://aix.eng.usf.edu/"><img src="/images/aix.png" alt="AI+X" style="max-width: 100%; max-height: 100%;"></a>
     </td>
   </tr>
