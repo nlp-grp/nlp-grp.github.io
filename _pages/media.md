@@ -11,7 +11,8 @@ permalink: /media
 
 ### Presentations and Interviews
 
-### [Identifying AI-Generated Content](https://www.youtube.com/watch?v=_acibRWfch8)
+### [Identifying AI-Generated Content](https://youtu.be/_acibRWfch8?si=3Jh9xpzKJwm5OFdv)
+<a href="https://youtu.be/_acibRWfch8?si=3Jh9xpzKJwm5OFdv"><img style="width: 30%" src="images/licato_speech.png"></a>
 Dr. John Licato explores whether we can determine if content—text, images, video, or voice—is AI- or human-generated during a talk at the Ringling College of Art and Design. Will there come a time when distinguishing between the two is entirely impossible?
 
 ---
