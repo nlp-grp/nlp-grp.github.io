@@ -9,11 +9,11 @@ permalink: /media
 ## **Media**
 ---
 
-### Presentations and Interviews
+### News
 
-### [Identifying AI-Generated Content](https://youtu.be/_acibRWfch8?si=3Jh9xpzKJwm5OFdv)
-<a href="https://youtu.be/_acibRWfch8?si=3Jh9xpzKJwm5OFdv"><img style="width: 30%" src="images/licato_speech.png"></a><br>
-Dr. John Licato explores whether we can determine if content—text, images, video, or voice—is AI- or human-generated during a talk at the Ringling College of Art and Design. Will there come a time when distinguishing between the two is entirely impossible?
+#### [Dr. John Licato Explores Detecting AI vs. Human-Generated Content in Talk at Ringling College of Art and Design](https://youtu.be/_acibRWfch8?si=3Jh9xpzKJwm5OFdv)
+
+#### [Dr. Anshuman Chhabra's Team Wins UC Berkeley Competition for Personalized Quality News Upranking Approach] (https://rankingchallenge.substack.com/p/prosocial-ranking-challenge-midpoint)
 
 ---
 
