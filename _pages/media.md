@@ -11,9 +11,9 @@ permalink: /media
 
 ### News
 
-#### [Dr. John Licato Explores Detecting AI vs. Human-Generated Content in Talk at Ringling College of Art and Design](https://youtu.be/_acibRWfch8?si=3Jh9xpzKJwm5OFdv)
+- #### [Dr. John Licato Explores Detecting AI vs. Human-Generated Content in Talk at Ringling College of Art and Design](https://youtu.be/_acibRWfch8?si=3Jh9xpzKJwm5OFdv)
 
-#### [Dr. Anshuman Chhabra's Team Wins UC Berkeley Competition for Personalized Quality News Upranking Approach](https://rankingchallenge.substack.com/p/prosocial-ranking-challenge-midpoint)
+- #### [Dr. Anshuman Chhabra's Team Wins UC Berkeley Competition for Personalized Quality News Upranking Approach](https://rankingchallenge.substack.com/p/prosocial-ranking-challenge-midpoint)
 
 ---
 
