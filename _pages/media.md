@@ -11,6 +11,8 @@ permalink: /media
 
 ### News
 
+- #### [Dr. Yasin Yilmaz has been recognized as a Highly Ranked Scholar (0.05% of scholars worldwide) in the specialty of Anomaly Detection by ScholarGPS.](https://scholargps.com/search.php?q=Yasin%20Yilmaz&type=profile&scholar_ranks_user_id=28607505732215)
+
 - #### [Dr. John Licato Explores Detecting AI vs. Human-Generated Content in Talk at Ringling College of Art and Design](https://youtu.be/_acibRWfch8?si=3Jh9xpzKJwm5OFdv)
 
 - #### [Dr. Anshuman Chhabra's Team Wins UC Berkeley Competition for Personalized Quality News Upranking Approach](https://rankingchallenge.substack.com/p/prosocial-ranking-challenge-midpoint)
