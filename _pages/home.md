@@ -40,8 +40,13 @@ We are proud to collaborate with leading universities and industry partners to d
     <td style="width: 25%; text-align: center; padding: 5px">
       <a href="https://aix.eng.usf.edu/"><img src="/images/aix.png" alt="AI+X" style="max-width: 100%; max-height: 100%;"></a>
     </td>
+  </tr>
+  <tr>
     <td style="width: 25%; height: 150px; text-align: center; padding: 5px">
-      <img src="/images/tpa.png" alt="Tampa Public Housing Authority" style="max-width: 100%; max-height: 100%;">
+     <a href="https://www.tampaha.org/"> <img src="/images/tpa.png" alt="Tampa Public Housing Authority" style="max-width: 100%; max-height: 100%;"></a>
+    </td>
+     <td style="width: 25%; height: 150px; text-align: center; padding: 5px">
+      <a href="https://www.usf.edu/engineering/iae/"><img src="/images/IAE-logo.png" alt="Institute for Applied Engineering" style="max-width: 100%; max-height: 100%;"></a>
     </td>
   </tr>
 </table>
