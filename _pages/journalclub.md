@@ -7,7 +7,7 @@ permalink: /journalclub/
 
 # USF NLP Group Journal Club
 
-The USF NLP Group Journal Club is designed to foster an environment of critical thinking and academic discussion. This initiative offers our Ph.D. advisees the opportunity to stay updated on the latest research in Natural Language Processing (NLP) by selecting recent papers and presenting their key points. Through discussions on the strengths, weaknesses, and broader impact of the research, we aim to deepen our understanding of the field, stimulate new ideas, and enhance our collective knowledge.
+The USF NLP Group Journal Club is designed to foster an environment of critical thinking and academic discussion. This initiative offers our Ph.D. advisees the opportunity to stay updated on the latest research in language understanding and technologies by selecting recent papers and presenting their key points. Through discussions on the strengths, weaknesses, and broader impact of the research, we aim to deepen our understanding of the field, stimulate new ideas, and enhance our collective knowledge.
 
 ## How It Works:
 - **Paper Selection:** Each session will be led by one of our Ph.D. advisees, who will select a recent research paper in the NLP domain.
