@@ -8,10 +8,11 @@ permalink: /resources/
 
 
 ## **Resources**
-
+---
 This page provides an overview of the computational resources for research and experimentation. These resources support deep learning, large-scale NLP model training, and other computationally intensive tasks.
 
-## **USF Advanced Computing Resources**  
+## **USF Advanced Computing Resources** 
+---
 The University of South Florida's advanced computing resources are managed by **Research Computing (RC)**, which operates the **CIRCE** cluster. CIRCE consists of approximately **350 nodes** with over **9,000 processor cores**, **57TB of shared memory**, and **158 GPUs**, running **Red Hat Enterprise Linux v7**. The cluster supports high-speed computation with **100GB Omnipath, 100GB Infiniband, and 40GB Infiniband** interconnects.  
 
 For storage, CIRCE utilizes three parallel file systems:  
@@ -23,6 +24,7 @@ RC provides access to **120+ scientific software packages**, remote system acces
 - **Access:** Requires an account and allocation. See [Connecting to Circe](https://wiki.rc.usf.edu/index.php/Connecting_To_CIRCE) for more details.  
 
 ## **GAIVI**
+---
 The **GAIVI** CSE cluster is a high-performance computing cluster supports large-scale computational research, primarily in support USF's faculty working in computing and AI. It provides access to advanced GPU resources, facilitating deep learning, scientific simulations, and data-intensive tasks.  
 
 #### **System Overview**  
@@ -37,6 +39,7 @@ GAIVI uses the **SLURM** scheduling environment for job submissions, ensuring ef
 For more details, visit the [GAIVI Documentation](https://docs.gaivi.cse.usf.edu/doku.php?id=main%3Agaivi%3Astart) or contact GAIVI administrators.
 
 ## **NSF ACCESS Cloud Computing Resources**  
+---
 The **NSF ACCESS (Advanced Cyberinfrastructure Coordination Ecosystem: Services & Support)** program provides researchers and educators with access to advanced computing resources, including supercomputers, AI and machine learning platforms, and big data analysis tools. Funded by the **National Science Foundation (NSF)**, ACCESS is designed to support a wide range of computational research needs beyond standard desktops and laptops.  
 
 #### **Key Features:**  
@@ -52,15 +55,8 @@ ACCESS resources are **free** for U.S. researchers, educators, students, and eli
 
 For more details and to apply for resources, visit: [NSF ACCESS](https://access-ci.org/)
 
-## **Shared Storage & Data Repositories**  
-- **Description:** Secure storage for datasets, model checkpoints, and experimental results.  
-- **Resources:**  
-  - Networked storage on HPC cluster  
-  - Lab-managed NAS for long-term data storage  
-  - Cloud-based storage (Google Drive, AWS S3, etc.)  
-- **Access:** Request access via [TBD]. Follow data management best practices.  
-
-## **Software & Tools**  
+## **Software & Tools** 
+---
 Here’s a list of popular **open-source NLP software** tools commonly used for natural language processing tasks:
 
 ### 1. **SpaCy**
