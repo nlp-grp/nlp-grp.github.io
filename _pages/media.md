@@ -21,6 +21,8 @@ permalink: /media
 
 ### Selected Publications
 
+- Berson, I.R., Berson, M.J., & Luo, W. (2025). Innovating responsibly: Ethical considerations for AI in early childhood education. AI Brain Child, 1(2). https://doi.org/10.1007/s44436-025-00003-5.
+
 - King, J.R., Burger, L., & Schneider, J.J. (in press). Second-order multimodal discourse synthesis: How ideas become embodied actions of writing teachers as human-centered designers. In Castek, J., Coiro, J., Hagerman, M.S., Kiili, C., Sparks, J.R. (Eds.). _International Handbook of Research in Digital Literacies._ Routledge.
 
 - Osvath, C. & Schneider, J.J. (2023). Children’s literature in immersive technologies: Stories as magical spaces for diversity and inclusion. In A. Gunn & S. Bennett (Eds.). _Teaching Multicultural Children’s Literature in a Diverse Society: From Historical Perspective to Instructional Practice._ Routledge.
