@@ -9,7 +9,7 @@ permalink: /resources/
 
 ## **Resources**
 
-This page provides an overview of the computational resources available to the USF NLP Group for research and experimentation. These resources support deep learning, large-scale NLP model training, and other computationally intensive tasks.
+This page provides an overview of the computational resources for research and experimentation. These resources support deep learning, large-scale NLP model training, and other computationally intensive tasks.
 
 ## **USF Advanced Computing Resources**  
 The University of South Florida's advanced computing resources are managed by **Research Computing (RC)**, which operates the **CIRCE** cluster. CIRCE consists of approximately **350 nodes** with over **9,000 processor cores**, **57TB of shared memory**, and **158 GPUs**, running **Red Hat Enterprise Linux v7**. The cluster supports high-speed computation with **100GB Omnipath, 100GB Infiniband, and 40GB Infiniband** interconnects.  
