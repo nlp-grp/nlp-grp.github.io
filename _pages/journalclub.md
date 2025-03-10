@@ -1,8 +1,8 @@
 ---
-title: "NLP Group @ USF - Pictures"
+title: "Journal Club"
 layout: piclay
-excerpt: "NLP Group @ USF -- Pictures"
-permalink: /pictures/
+excerpt: "Journal Club"
+permalink: /journalclub/
 ---
 
 # Pictures
