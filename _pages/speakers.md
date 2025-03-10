@@ -6,8 +6,8 @@ sitemap: false
 permalink: /speakers.html
 ---
 
-# USF NLP Group Speaker Series
-
+## **Speaker Series**
+---
 This series aims to bring together thought leaders and experts in the field of Natural Language Processing (NLP) to share their knowledge, research, and insights with our community. The talks are designed to foster collaboration, spark new ideas, and enhance learning for students, researchers, and professionals in NLP.
 
 ## Upcoming Talks
