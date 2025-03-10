@@ -1,78 +1,44 @@
 ---
 title: "Journal Club"
-layout: piclay
+layout: textlay
 excerpt: "Journal Club"
 permalink: /journalclub/
 ---
 
-# Pictures
-Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
+# USF NLP Group Journal Club
 
+The USF NLP Group Journal Club is designed to foster an environment of critical thinking and academic discussion. This initiative offers our Ph.D. advisees the opportunity to stay updated on the latest research in Natural Language Processing (NLP) by selecting recent papers and presenting their key points. Through discussions on the strengths, weaknesses, and broader impact of the research, we aim to deepen our understanding of the field, stimulate new ideas, and enhance our collective knowledge.
 
-## Leiden
+## How It Works:
+- **Paper Selection:** Each session will be led by one of our Ph.D. advisees, who will select a recent research paper in the NLP domain.
+- **Presentation:** The student will present the paper’s key points, summarizing its findings, methodology, and significance.
+- **Discussion:** After the presentation, the group will engage in a critical discussion of the paper, focusing on its strengths, weaknesses, and potential impact on the broader field.
+  
+This club is an opportunity for continuous learning and collaboration, helping everyone stay informed about recent advancements in NLP while developing their critical analysis and presentation skills.
 
-#### Timelapse of our STM assembling [(see LION news item)](https://www.physics.leidenuniv.nl/index.php?id=11573&news=867&type=lion&ln=EN):
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3iKvUMv1h5A" frameborder="0" allowfullscreen></iframe>
+## Upcoming Sessions
 
-#### Gallery
-(Right-click *'view image'* to see a larger image.)
-{% assign number_printed = 0 %}
-{% for pic in site.data.pictures_Leiden %}
+### Session 1: TBD
+- **Paper:** TBD  
+- **Presenter:** TBD  
+- **Date:** TBD  
 
-{% assign even_odd = number_printed | modulo: 4 %}
+### Session 2: TBD
+- **Paper:** TBD  
+- **Presenter:** TBD  
+- **Date:** TBD  
 
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
+### Session 3: TBD
+- **Paper:** TBD  
+- **Presenter:** TBD  
+- **Date:** TBD  
 
-<div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
-</div>
+### Session 4: TBD
+- **Paper:** TBD  
+- **Presenter:** TBD  
+- **Date:** TBD  
 
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd > 2 %}
-</div>
-{% endif %}
-
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 4 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% if even_odd == 2 %}
-</div>
-{% endif %}
-
-{% if even_odd == 3 %}
-</div>
-{% endif %}
-
-<p> &nbsp; </p>
-
-First advertisement.
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg" width="60%" >
-</figure>
-
-
-## ETHZ
-From the [group of Andreas Wallraff](http://www.qudev.ethz.ch/).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageETH_red.jpg" width="60%">
-</figure>
-
-## Cornell
-From the [group of Seamus JC Davis](http://davisgroup.lassp.cornell.edu).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageCornell_red.jpg" width="60%">
-</figure>
-
-## St Andrews
-From the [group of Felix Baumberger](http://dqmp.unige.ch/baumberger/) (now at University of Geneva).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageSTA_red.jpg" width="60%">
-</figure>
+### Session 5: TBD
+- **Paper:** TBD  
+- **Presenter:** TBD  
+- **Date:** TBD  
