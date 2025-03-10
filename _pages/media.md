@@ -6,55 +6,39 @@ sitemap: false
 permalink: /media
 ---
 
-## **Media**
----
+## **Media**  
 
-### News
+### **News**  
 
-- #### [Dr. Yasin Yilmaz has been recognized as a Highly Ranked Scholar (0.05% of scholars worldwide) in the specialty of Anomaly Detection by ScholarGPS.](https://scholargps.com/search.php?q=Yasin%20Yilmaz&type=profile&scholar_ranks_user_id=28607505732215)
+📢 **[Dr. Yasin Yilmaz](https://scholargps.com/search.php?q=Yasin%20Yilmaz&type=profile&scholar_ranks_user_id=28607505732215)** has been recognized as a Highly Ranked Scholar (top 0.05% worldwide) in **Anomaly Detection** by ScholarGPS.  
 
-- #### [Dr. John Licato Explores Detecting AI vs. Human-Generated Content in Talk at Ringling College of Art and Design](https://youtu.be/_acibRWfch8?si=3Jh9xpzKJwm5OFdv)
+🎤 **[Dr. John Licato](https://youtu.be/_acibRWfch8?si=3Jh9xpzKJwm5OFdv)** explores detecting AI vs. human-generated content in a talk at **Ringling College of Art and Design**.  
 
-- #### [Dr. Anshuman Chhabra's Team Wins UC Berkeley Competition for Personalized Quality News Upranking Approach](https://rankingchallenge.substack.com/p/prosocial-ranking-challenge-midpoint)
+🏆 **[Dr. Anshuman Chhabra's team](https://rankingchallenge.substack.com/p/prosocial-ranking-challenge-midpoint)** wins the **UC Berkeley Competition** for a personalized quality news upranking approach.  
 
----
+---  
 
-### Selected Publications
+### **Selected Publications**  
 
-- Berson, I.R., Berson, M.J., & Luo, W. (2025). Innovating responsibly: Ethical considerations for AI in early childhood education. AI Brain Child, 1(2). https://doi.org/10.1007/s44436-025-00003-5.
+📖 **Ethics & AI in Education**  
+- **Berson, I.R., Berson, M.J., & Luo, W.** (2025). *Innovating responsibly: Ethical considerations for AI in early childhood education.* [AI Brain Child, 1(2)](https://doi.org/10.1007/s44436-025-00003-5).  
 
-- King, J.R., Burger, L., & Schneider, J.J. (in press). Second-order multimodal discourse synthesis: How ideas become embodied actions of writing teachers as human-centered designers. In Castek, J., Coiro, J., Hagerman, M.S., Kiili, C., Sparks, J.R. (Eds.). _International Handbook of Research in Digital Literacies._ Routledge.
+📖 **Multimodal Learning & Literacy**  
+- **King, J.R., Burger, L., & Schneider, J.J.** (in press). *Second-order multimodal discourse synthesis: How ideas become embodied actions of writing teachers as human-centered designers.* In _International Handbook of Research in Digital Literacies_, Routledge.  
+- **Burger, L., Schneider, J.J., & King, J.R.** (2024, Dec). *AI Content Creation and Multimodal Text Production: Composing Strategies of Black Youth in a VR Gaming Club.* Presented at the **Annual Conference of the Literacy Research Association**, Atlanta, GA.  
 
-- Osvath, C. & Schneider, J.J. (2023). Children’s literature in immersive technologies: Stories as magical spaces for diversity and inclusion. In A. Gunn & S. Bennett (Eds.). _Teaching Multicultural Children’s Literature in a Diverse Society: From Historical Perspective to Instructional Practice._ Routledge.
+📖 **AI & Health**  
+- **Zitu MM, Le TD, Duong T, et al.** (2024). *Large language models in cancer: potentials, risks, and safeguards.* [_BJR Artificial Intelligence_](https://doi.org/10.1093/bjrai/ubae019).  
+- **Thieu T, Maldonado JC, Ho PS, et al.** (2021). *A comprehensive study of mobility functioning information in clinical notes: Entity hierarchy, corpus annotation, and sequence labeling.* [_International Journal of Medical Informatics_](https://doi.org/10.1016/j.ijmedinf.2020.104351).  
 
-- Burger, L., Schneider, J.J., King., J.R. (December, 2024). AI Content Creation and Multimodal Text Production: Composing Strategies of Black Youth in a VR Gaming Club. Paper presented at the _Annual Conference of the Literacy Research Association_, Atlanta, GA.
+📖 **AI Bias & Detection**  
+- **Parush Gera & Tempestt Neal.** (2022). *A Comparative Analysis of Stance Detection Approaches and Datasets.* [_ACL Workshop on NLP Evaluation_](https://aclanthology.org/2022.eval4nlp-1.7/).  
+- **Mahammed Kamruzzaman, Md. Shovon, & Gene Kim.** (2024). *Investigating Subtler Biases in LLMs: Ageism, Beauty, Institutional, and Nationality Bias in Generative Models.* [_ACL 2024_](https://doi.org/10.18653/v1/2024.findings-acl.530).  
 
-- Schneider, J.J., Burger, L., King, J.R. (December, 2024). Creating Future Cities with AI: How Black Youth Composed Imagined Environments as Emerging Engineers. Paper presented at the _Annual Conference of the Literacy Research Association_, Atlanta, GA.
+📖 **AI in Early Childhood Education**  
+- **Luo, W., He, H., Liu, J., et al.** (2023). *Aladdin’s Genie or Pandora’s Box for Early Childhood Education? Experts Chat on the Roles, Challenges, and Developments of ChatGPT.* [_Early Education and Development_](https://doi.org/10.1080/10409289.2023.2214181).  
+- **Berson, I.R., & Berson, M.J.** (2024). *Fragments of the past: The intersection of AI, historical imagery, and early childhood creativity.* [_Future in Educational Research_](https://doi.org/10.1002/fer3.46).  
 
-- Schneider, J.J., King, J.R., Burger, L. (April 2024). Negotiating AI outputs to engineer future cities: Black youth as composing agents. Paper presented at the _Annual Conference at American Education Research Association_. Philadelphia, PA.
-
-- Schneider, J.J., King, J.R., Burger, L. (December, 2023). Cultivating literacies of Black game developers: A design-based study in composing and critical media literacies for youth. Paper presented at the _Annual Conference of the Literacy Research Association_. Atlanta, GA.
-
-- Zitu MM, Le TD, Duong T, Haddadan S, Garcia M, Amorrortu R, Zhao Y, Rollison DE, Thieu T. [Large language models in cancer: potentials, risks, and safeguards.](https://doi.org/10.1093/bjrai/ubae019) _BJR Artif Intell._ 2024 Dec 20;2(1):ubae019. doi: 10.1093/bjrai/ubae019. PMID: 39777117; PMCID: PMC11703354.
-
-- Thieu T, Maldonado JC, Ho PS, Ding M, Marr A, Brandt D, Newman-Griffis D, Zirikly A, Chan L, Rasch E. [A comprehensive study of mobility functioning information in clinical notes: Entity hierarchy, corpus annotation, and sequence labeling.](https://doi.org/10.1016/j.ijmedinf.2020.104351) _Int J Med Inform._ 2021 Mar;147:104351. doi: 10.1016/j.ijmedinf.2020.104351. Epub 2020 Dec 24. PMID: 33401169; PMCID: PMC8104034.
-
-- Parush Gera and Tempestt Neal. 2022. [A Comparative Analysis of Stance Detection Approaches and Datasets.](https://aclanthology.org/2022.eval4nlp-1.7/) In Proceedings of the _3rd Workshop on Evaluation and Comparison of NLP Systems_, pages 58–69, Online. Association for Computational Linguistics. https://aclanthology.org/2022.eval4nlp-1.7/
-
-- Luo, W., He, H., Liu, J., Berson, I. R., Berson, M. J., Zhou, Y., & Li, H. (2023). [Aladdin’s Genie or Pandora’s Box for Early Childhood Education? Experts Chat on the Roles, Challenges, and Developments of ChatGPT.](https://doi.org/10.1080/10409289.2023.2214181) _Early Education and Development_, 35(1), 96–113. https://doi.org/10.1080/10409289.2023.2214181
-  
-- Mahammed Kamruzzaman, Md. Shovon, and Gene Kim. 2024. [Investigating Subtler Biases in LLMs: Ageism, Beauty, Institutional, and Nationality Bias in Generative Models.](https://doi.org/10.18653/v1/2024.findings-acl.530) In Findings of the Association for Computational Linguistics: _ACL 2024_, pages 8940–8965, Bangkok, Thailand. Association for Computational Linguistics. https://doi.org/10.18653/v1/2024.findings-acl.530
-  
-- Tempestt Neal, Kalaivani Sundararajan, Aneez Fatima, Yiming Yan, Yingfei Xiang, and Damon Woodard. 2017. [Surveying Stylometry Techniques and Applications.](https://doi.org/10.1145/3132039) _ACM Comput. Surv._ 50, 6, Article 86 (November 2018), 36 pages. https://doi.org/10.1145/3132039
-
-- Berson, I. R., & Berson, M. J. (2024). [Fragments of the past: The intersection of AI, historical imagery, and early childhood creativity.](https://doi.org/10.1002/fer3.46) _Future in Educational Research_, 2(4), 403–421. https://doi.org/10.1002/fer3.46
-
-- Berson, I. R., & Berson, M. J. (2024). [Child-centered technology innovations: Transforming teaching and learning in the early years.](https://www.mdpi.com/journal/education/special_issues/H2S7L0248C) _Education Sciences._ https://www.mdpi.com/journal/education/special_issues/H2S7L0248C
-
-- Berson, I. R., & Berson, M. J. (2023). The democratization of AI and its transformative potential in social studies education. _Social Education_, 87(2), 114-118.
-
-- Berson, I. R., Berson, M. J., McKinnon, C., Aradhya, D., Alyaeesh, M., Luo, W., & Shapiro, B. R. (2023). [An exploration of robot programming as a foundation for spatial reasoning and computational thinking in preschoolers’ guided play.](https://doi.org/10.1016/j.ecresq.2023.05.015) _Early Childhood Research Quarterly_, 65, 57-67. https://doi.org/10.1016/j.ecresq.2023.05.015
-
-- Berson, I. R., Berson, M. J., Luo, W., & He, H. (2023). [Intelligence augmentation in early childhood education: A multimodal creative inquiry approach.](https://doi.org/10.1007/978-3-031-36336-8_116) In N. Wang, G. Rebolledo-Mendez, V. Dimitrova, N. Matsuda, & O. C. Santos (Eds.), _Communications in Computer and Information Science_, vol 1831 (pp. 756-763). Springer, Cham. https://doi.org/10.1007/978-3-031-36336-8_116
-
-- Berson, I. R., Berson, M. J., Connors, B. C., Reed, L. E., Almuthibi, F. H., & Alahmdi, O. A. (2023). Using mixed reality to create multimodal learning experiences for early childhood. In T. Cherner & A. Fegely, _Bridging the XR Technology-to-Practice Gap_ Vol. 2 (pp. 151-162). Association for the Advancement of Computing in Education.
+📖 **AI, Robotics & XR Learning**  
+- **Berson, I.R., Berson, M.J., McKinnon, C., et al.** (2023). *An exploration of robot programming as a foundation for spatial reasoning and computational thinking in preschoolers’ guided play.* [_Early Childhood Research Quarterly_](https://doi.org/10.1016/j.ecresq.2023.05.015).  
+- **Berson, I.R., Berson, M.J., Connors, B.C., et al.** (2023). *Using mixed reality to create multimodal learning experiences for early childhood.* In _Bridging the XR Technology-to-Practice Gap_, Vol. 2.  
