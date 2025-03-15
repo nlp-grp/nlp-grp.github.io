@@ -22,7 +22,7 @@ This club is an opportunity for continuous learning and collaboration, helping e
 
 ### Session 1: April 14, 2025, 3:00PM - 4:00PM
 - **Paper:** TBD  
-- **Presenter:** Parush Gera, Ph.D. Candidate, Department of Computer Science and Engineering  
+- **Presenter:** Parush Gera, Ph.D. Candidate, USF’s Bellini College of Artificial Intelligence, Cybersecurity and Computing RISE Speaker Series  
 - **Meeting Information:**
 
 [Join the Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjA0NjViNzktZWU2Ny00M2UxLWE4MDAtM2RhZGYwZjVmNjg4%40thread.v2/0?context=%7b%22Tid%22%3a%22741bf7de-e2e5-46df-8d67-82607df9deaa%22%2c%22Oid%22%3a%22f8f1e81f-58f8-407b-af7d-89877ebc5bb6%22%7d) via Microsoft Teams
