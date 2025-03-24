@@ -22,7 +22,7 @@ This series aims to bring together thought leaders and experts in the field of N
 
 ### April 7, 2025
 - **Talk Title: *Navigating NLP in the Generative AI Era: Challenges, Risks, and New Frontiers***
-  ![Dr. Bonnie Dorr](https://nlp-grp.github.io/images/dorr.jpg)
+<img src="https://nlp-grp.github.io/images/dorr.jpg" alt="Bonnie Dorr" width="150">  
 - **Presenter:** [Bonnie Dorr, Ph.D.](https://www.cise.ufl.edu/dorr-bonnie-j/), Professor, Department of Computer and Information Science 
  and Engineering, University of Florida
 - **Location:** [Virtual - Microsoft Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODE1NzIxYjEtYTdjOC00OWFiLTk1NzctOTcyODA1NzZlMTFl%40thread.v2/0?context=%7b%22Tid%22%3a%22741bf7de-e2e5-46df-8d67-82607df9deaa%22%2c%22Oid%22%3a%22f8f1e81f-58f8-407b-af7d-89877ebc5bb6%22%7d)
