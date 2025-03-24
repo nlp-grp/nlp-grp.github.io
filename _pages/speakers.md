@@ -22,7 +22,7 @@ This series aims to bring together thought leaders and experts in the field of N
 
 ### April 7, 2025
 <div style="float: left; margin-right: 15px;">
-    <img src="https://example.com/bonnie_dorr.jpg" alt="Bonnie Dorr" width="150">
+    <img src="https://nlp-grp.github.io/images/dorr.jpg" alt="Bonnie Dorr" width="150">
 </div>
 
 - **Talk Title: *Navigating NLP in the Generative AI Era: Challenges, Risks, and New Frontiers***
