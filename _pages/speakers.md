@@ -21,9 +21,7 @@ This series aims to bring together thought leaders and experts in the field of N
 - **Bio:** Stephen Steinle is a second year Ph.D student in the Computer Science department at the University of South Florida. He works in the Advancing Machine and Human Reasoning (AMHR) Lab under the guidance of Dr. John Licato. His work has concerned cognitive modeling, next word prediction, and the methods used to make LLMs act more similarly to individuals in the field of Digital Twinning. His current projects involve multi-agent interactions during adversarial and collaborative tasks such as board games and wargames.  
 
 ### April 7, 2025
-<div style="float: left; margin-right: 15px;">
-    <img src="https://nlp-grp.github.io/images/dorr.jpg" alt="Bonnie Dorr" width="150">
-</div>
+<img src="https://nlp-grp.github.io/images/dorr.jpg" alt="Bonnie Dorr" width="150" style="float: left; margin-right: 15px;">
 
 - **Talk Title: *Navigating NLP in the Generative AI Era: Challenges, Risks, and New Frontiers***
 - **Presenter:** [Bonnie Dorr, Ph.D.](https://www.cise.ufl.edu/dorr-bonnie-j/), Professor, Department of Computer and Information Science and Engineering, University of Florida
