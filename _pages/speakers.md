@@ -31,6 +31,8 @@ This series aims to bring together thought leaders and experts in the field of N
 
 ### April 18, 2025
 *This talk is held as a part of USF's Bellini College of Artificial Intelligence, Cybersecurity and Computing RISE Speaker Series.*
+<img src="https://nlp-grp.github.io/images/bearfield.jpg" alt="Cindy Bearfield" width="150" style="float: left; margin-right: 25px;">
+
 - **Talk Title: *Designs to Support Better Visual Data Communication***
 - **Presenter:** [Cindy Bearfield, Ph.D.](https://cyxiong.com/), Assistant Professor, School of Interactive Computing, Georgia Tech
 - **Location**: [Virtual - Microsoft Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTJkYTU4ZGMtNzY4Mi00ZmQwLWE0NDctYWMwZWMzOGM4MGE4%40thread.v2/0?context=%7b%22Tid%22%3a%22741bf7de-e2e5-46df-8d67-82607df9deaa%22%2c%22Oid%22%3a%22f8f1e81f-58f8-407b-af7d-89877ebc5bb6%22%7d)
