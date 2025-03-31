@@ -21,7 +21,8 @@ This club is an opportunity for continuous learning and collaboration, helping e
 ## Upcoming Sessions
 
 ### Session 1: April 14, 2025, 3:00PM - 4:00PM
-- **Paper:** TBD  
+- **Paper:** Iain J. Cruickshank and Lynnette Hui Xian Ng. 2025. **Prompting and Fine-Tuning Open-Sourced Large Language Models for Stance Classification.** ACM Trans. Intell. Syst. Technol. (March 2025). https://doi.org/10.1145/3725816
+ 
 - **Presenter:** Parush Gera, Ph.D. Candidate, USF’s Bellini College of Artificial Intelligence, Cybersecurity and Computing RISE Speaker Series  
 - **Meeting Information:**
 
