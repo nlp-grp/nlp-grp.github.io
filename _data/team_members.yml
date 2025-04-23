@@ -70,9 +70,10 @@
   photo: lingyao.jpg
   info: Assistant Profession, School of Information, College of Arts and Sciences
   email: lingyaol@usf.edu
-  number_educ: 2
+  number_educ: 3
   education1: Postdoc, School of Information, University of Michigan
   education2: Ph.D., Civil and Environmental Engineering, University of Maryland College Park
+  education3: Dr. Li's research focuses on NLP and crowdsourced data analysis from social media and online platforms, studing large language models (LLMs) with an emphasis on their reasoning capabilities, trustworthiness, and potential in multi-agent systems across diverse domains. He also examines the societal and scientific impacts of LLMs, with a strong commitment to responsible and ethical AI. He applies NLP and crowdsourced data to two key areas: urban informatics and health informatics, to explore community resilience, disaster response, and urban environments by integrating social media and online review data with GIS techniques and analyze public responses to interventions and policies using citizen-generated data.
   
 - name: <a href="https://cse.usf.edu/~licato/" target="_blank">John Licato, Ph.D.</a>
   photo: licato.jpeg
