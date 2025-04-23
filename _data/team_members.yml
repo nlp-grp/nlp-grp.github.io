@@ -65,7 +65,16 @@
   number_educ: 2
   education1: Ph.D., Computer Science, University of California, Los Angeles
   education2: Dr. Kim's research interests include fairness in machine learning, explainable AI, data mining, including social media and web mining, and applied data science, particularly in online social networks and mental health applications. 
-  
+
+- name: <a href="https://www.lingyaoli.com/" target="_blank">Lingyao Li, Ph.D.</a>
+  photo: lingyao.jpg
+  info: Assistant Profession, School of Information, College of Arts and Sciences
+  email: lingyaol@usf.edu
+  number_educ: 3
+  education1: Postdoc, School of Information, University of Michigan
+  education2: Ph.D., Civil and Environmental Engineering, University of Maryland College Park
+  education3: My research focuses on natural language processing (NLP) and crowdsourced data analysis from social media and online platforms. I study large language models (LLMs) with an emphasis on their reasoning capabilities, trustworthiness, and potential in multi-agent systems across diverse domains. I also examine the societal and scientific impacts of LLMs, with a strong commitment to responsible and ethical AI. In parallel, I apply NLP and crowdsourced data to two key areas: urban informatics and health informatics. In urban contexts, I explore community resilience, disaster response, and urban environments by integrating social media and online review data with GIS techniques. In health, I analyze public responses to interventions and policies using citizen-generated data, while also developing LLM-based information extraction pipelines and multi-agent systems to support healthcare decision-making.
+ 
 - name: <a href="https://cse.usf.edu/~licato/" target="_blank">John Licato, Ph.D.</a>
   photo: licato.jpeg
   info: Associate Professor, Department of Computer Science and Engineering, College of Engineering
