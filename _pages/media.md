@@ -1,38 +1,28 @@
 ---
-title: "Media"
+title: "Publications"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /media
+permalink: /publications
 ---
 
-## **Media**  
+## **Selected Publications**  
 
-### **News**  
-
-📢 **[Dr. Yasin Yilmaz](https://scholargps.com/search.php?q=Yasin%20Yilmaz&type=profile&scholar_ranks_user_id=28607505732215)** has been recognized as a Highly Ranked Scholar (top 0.05% worldwide) in **Anomaly Detection** by ScholarGPS.  
-
-🎤 **[Dr. John Licato](https://youtu.be/_acibRWfch8?si=3Jh9xpzKJwm5OFdv)** explores detecting AI vs. human-generated content in a talk at **Ringling College of Art and Design**.  
-
-🏆 **[Dr. Anshuman Chhabra's team](https://rankingchallenge.substack.com/p/prosocial-ranking-challenge-midpoint)** wins the **UC Berkeley Competition** for a personalized quality news upranking approach.  
-
----
-
-### **Selected Publications**  
-
-#### 📖 Ethics, Bias & AI  
+#### 📖 Ethics, Bias & Responsible AI  
 - **Berson, I.R., Berson, M.J., & Luo, W.** (2025). *Innovating responsibly: Ethical considerations for AI in early childhood education.* [_AI Brain Child, 1(2)_](https://doi.org/10.1007/s44436-025-00003-5).  
+- **J. Lee, T. Shang, D. Duong-tran, S. Yang, L. Li*, S. Li.** (2025). *An Investigation of large language models in clinical triage: Promising capabilities, persistent racial and gender biases.* AAAI 2025 Workshop on Generative AI for Health, Philadelphia, PA.  
 - **Mahammed Kamruzzaman, Md. Shovon, & Gene Kim.** (2024). *Investigating Subtler Biases in LLMs: Ageism, Beauty, Institutional, and Nationality Bias in Generative Models.* [_ACL 2024_](https://doi.org/10.18653/v1/2024.findings-acl.530).  
 - **Parush Gera & Tempestt Neal.** (2022). *A Comparative Analysis of Stance Detection Approaches and Datasets.* [_ACL Workshop on NLP Evaluation_](https://aclanthology.org/2022.eval4nlp-1.7/).  
 
 ---
 
-#### 📖 AI in Health & Crisis Response  
+#### 📖 AI in Health, Crisis Response & Simulation  
+- **H. Yu, J. Zhou, L. Li, T.L. Assimes, X. Ma, D. Bitterman, L. Fan.** (2025). *AIPatient: Simulating patients with EHRs and LLM powered agentic workflow.* AAAI 2025 Workshop on Advancing LLM-based Multi-Agent Collaboration, Philadelphia, PA.  
 - **Zitu MM, Le TD, Duong T, et al.** (2024). *Large language models in cancer: potentials, risks, and safeguards.* [_BJR Artificial Intelligence_](https://doi.org/10.1093/bjrai/ubae019).  
-- **Thieu T, Maldonado JC, Ho PS, et al.** (2021). *A comprehensive study of mobility functioning information in clinical notes: Entity hierarchy, corpus annotation, and sequence labeling.* [_International Journal of Medical Informatics_](https://doi.org/10.1016/j.ijmedinf.2020.104351).  
 - **Dinh, L., & Walczak, S.** (2025). *Linguistic patterns in social media content from crisis and non-crisis zones: A case study of Hurricane Ian.* [_Information Processing & Management, 62(3), 104061_].  
 - **Walczak, S., & Dinh, L.** (2025). *A Text Mining Analytic Approach for Distinguishing Between Disaster and Non-Disaster Zones from Tweets.* [_International Journal of Disaster Risk Reduction, 105233_].  
 - **Dinh, L., Yang, P., & Diesner, J.** (2024). *From plan to practice: Interorganizational crisis response networks from governmental guidelines and real‐world collaborations during hurricane events.* [_Journal of Contingencies and Crisis Management, 32(3), e12601_].  
+- **Thieu T, Maldonado JC, Ho PS, et al.** (2021). *A comprehensive study of mobility functioning information in clinical notes: Entity hierarchy, corpus annotation, and sequence labeling.* [_International Journal of Medical Informatics_](https://doi.org/10.1016/j.ijmedinf.2020.104351).  
 
 ---
 
@@ -50,6 +40,8 @@ permalink: /media
 
 ---
 
-#### 📖 Network Dynamics & Learning Analytics  
+#### 📖 Network Dynamics, Reasoning & Learning Analytics  
+- **L. Fan, W. Hua, L. Li, H. Ling, Y. Zhang, L. Hemphill.** (2024). *NPHardEval: Dynamic benchmark on reasoning ability of large language models via complexity classes.* [_ACL_], Bangkok, Thailand.  
+- **S. Lin, W. Hua, L. Li, C. Chang, L. Fan, J. Ji, H. Hua, J. Luo, Y. Zhang.** (2024). *BattleAgent: Multi-modal dynamic emulation on historical battles to complement historical analysis.* [_EMNLP_], Miami, FL.  
 - **Dinh, L., Friedman, A., & Hawley, K.** (2024). *Examining peer review network dynamics in higher education visual communication courses using ERGM.* [_Computers and Education Open, 7, 100222_].  
 - **Cheng, Y. Y., & Dinh, L.** (2025). *An experiment on the impact of relation types towards taxonomy alignment problems.* [_Information Processing & Management, 62(3), 104036_].  
