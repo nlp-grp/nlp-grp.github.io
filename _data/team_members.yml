@@ -31,7 +31,15 @@
   education1: Ph.D., Computer Science, UC Davis
   education2: Director, <a href="https://www.anshumanc.com/" target="_blank">Pioneering Advances in Learning Methods (PALM) Lab</a>
   education3: Dr. Chhabra's research primarily focuses on holistically improving current and next-generation Artificial Intelligence models (e.g. Large Language Models) with respect to multiple qualitative facets, such as utility, fairness, robustness, and security. His work also aims to develop data-centric learning approaches that can benefit a large class of AI models in multiple domains such as Natural Language Processing and Computer Vision. 
-  
+
+- name: <a href="https://lydinh92.github.io/" target="_blank">Ly Dinh, Ph.D.</a>
+  photo: dinh.jpg
+  info: Assistant Professor, School of Information, College of Arts and Sciences
+  email: lydinh@usf.edu
+  number_educ: 2
+  education1: Ph.D, School of Information Sciences, University of Illinois Urbana-Champaign
+  education2: Dr. Dinh's research applies methods from natural language processing and network science to aid natural crisis response. She also develops and tests new measures to capture the complexities of social interactions across various network levels, including egos, dyads, triads, subgroups, and whole networks. Her recent work includes developing and benchmarking large language models (LLMs) to determine their accuracy and reliability in various real-world contexts, including enhancing decision-making in crisis situations, and combating cyber scams. Dr. Dinh's research has been published in Quantitative Science Studies, Journal of Contingencies & Crisis Management, Scientific Reports, and other peer-reviewed conferences in computational social science. She is a 2023 FL-AGEP Scholar, and a 2020 Grace Hopper Scholar for Women in Computing.
+
 - name: <a href="https://zhaohanphd.com/" target="_blank">Zhao Han, Ph.D.</a>
   photo: z_han.jpeg
   info: Assistant Professor, Department of Computer Science and Engineering, College of Engineering
