@@ -55,14 +55,8 @@ communicate data.
 - **Bio:** Cindy Xiong Bearfield is an Assistant Professor in the School of Interactive Computing at Georgia Institute of Technology. Bridging the fields of psychology and data visualization, she aims to understand the cognitive and perceptual processes that underlie visual data interpretation and communication. Her research informs visualization design that elicits critical thinking and calibrated trust in complex data. She received her Ph.D. in Cognitive Psychology and M.S. in Statistics from
 Northwestern University. Her research has been recognized with an NSF CAREER award. She has received paper awards at premier psychology and data visualization venues, including ACM CHI, IEEE PacificVis, Psychonomics, and IEEE VIS.  
 
-### May 19, 2025
-- **Presenter:** TBD  
-- **Bio:** TBD  
-- **Talk Title:** TBD  
-- **Abstract:** TBD  
-
 ### July 28, 2025
-- **Presenter:** TBD  
+- **Presenter:** [Evgenia Samoilova, PhD](https://www.uni-potsdam.de/en/multimedia/team/scientific-staff/evgenia-samoilova-phd) 
 - **Bio:** TBD  
 - **Talk Title:** TBD  
 - **Abstract:** TBD  
