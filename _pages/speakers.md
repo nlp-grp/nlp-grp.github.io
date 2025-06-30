@@ -21,7 +21,7 @@ permalink: /speakers.html
 
 **Evgenia Samoilova** is a postdoctoral researcher at the Chair for Complex Multimedia Application Architectures, University of Potsdam. Her research bridges digital education, data literacy, and the role of AI in higher education. Her current empirical work focuses on how large language models (LLMs) are shaping assessment practices in academic contexts. At QUADRIGA, the Berlin-Brandenburg center for data literacy, she is part of the academic leadership team and conducts applied research on instructional design for research data and research software education. Her background includes work on online learning engagement, learner workload, and data quality. She has collaborated across disciplines to advance sustainable, open approaches to data literacy development. She holds a Ph.D. in Sociology from the Bremen International Graduate School of Social Sciences. She is an alumna of the Wikimedia Open Knowledge Fellowship Program and the German-American Frontiers of Engineering (GAFOE) symposium, co-organized by the Alexander von Humboldt Foundation and the U.S. National Academy of Engineering.
 
-### *Designs to Support Better Visual Data Communication***
+### Designs to Support Better Visual Data Communication
 *This talk is held as a part of USF's Bellini College of Artificial Intelligence, Cybersecurity and Computing RISE Speaker Series.*
 <img src="https://nlp-grp.github.io/images/bearfield.jpg" alt="Cindy Bearfield" width="150" style="float: left; margin-right: 25px;">
 
