@@ -9,10 +9,10 @@ permalink: /journalclub/
 ## **Journal Club**
 ---
 
-The USF NLP Group Journal Club is designed to foster an environment of critical thinking and academic discussion. This initiative offers our Ph.D. advisees the opportunity to stay updated on the latest research in language understanding and technologies by selecting recent papers and presenting their key points. Through discussions on the strengths, weaknesses, and broader impact of the research, we aim to deepen our understanding of the field, stimulate new ideas, and enhance our collective knowledge.
+The USF NLP Group Journal Club is designed to foster an environment of critical thinking and academic discussion. This initiative offers our student advisees the opportunity to stay updated on the latest research in language understanding and technologies by selecting recent papers and presenting their key points. Through discussions on the strengths, weaknesses, and broader impact of the research, we aim to deepen our understanding of the field, stimulate new ideas, and enhance our collective knowledge.
 
 ## How It Works:
-- **Paper Selection:** Most sessions will be led by one of our Ph.D. advisees, who will select a recent research paper in the NLP domain.
+- **Paper Selection:** Most sessions will be led by one of our M.S./Ph.D. advisees, who will select a recent research paper in the NLP domain.
 - **Presentation:** The speaker will present the paper’s key points, summarizing its findings, methodology, and significance.
 - **Discussion:** After the presentation, the group will engage in a critical discussion of the paper, focusing on its strengths, weaknesses, and potential impact on the broader field.
   
@@ -37,7 +37,7 @@ Dial in by phone:
 ### Session 2: July 14, 2025, 3:00PM - 4:00PM
 - **Paper:** TBD
  
-- **Presenter:** Sree Rushitha Santhoshi Mamidala, USF’s Bellini College of Artificial Intelligence, Cybersecurity and Computing RISE Speaker Series  
+- **Presenter:** Sree Rushitha Santhoshi Mamidala, M.S. Student, USF’s Bellini College of Artificial Intelligence, Cybersecurity and Computing RISE Speaker Series  
 - **Meeting Information:**
 
 [Join the Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjA0NjViNzktZWU2Ny00M2UxLWE4MDAtM2RhZGYwZjVmNjg4%40thread.v2/0?context=%7b%22Tid%22%3a%22741bf7de-e2e5-46df-8d67-82607df9deaa%22%2c%22Oid%22%3a%22f8f1e81f-58f8-407b-af7d-89877ebc5bb6%22%7d) via Microsoft Teams
