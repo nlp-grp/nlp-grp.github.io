@@ -20,10 +20,18 @@ This club is an opportunity for continuous learning and collaboration, helping e
 
 ## Upcoming Sessions
 
+### Session 2: July 14, 2025, 3:00PM - 4:00PM
+- **Paper:** TBD
+ 
+- **Presenter:** Sree Rushitha Santhoshi Mamidala, M.S. Student, USF’s Bellini College of Artificial Intelligence, Cybersecurity and Computing RISE Speaker Series  
+- **Meeting Information:**
+
+[Join the Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjA0NjViNzktZWU2Ny00M2UxLWE4MDAtM2RhZGYwZjVmNjg4%40thread.v2/0?context=%7b%22Tid%22%3a%22741bf7de-e2e5-46df-8d67-82607df9deaa%22%2c%22Oid%22%3a%22f8f1e81f-58f8-407b-af7d-89877ebc5bb6%22%7d) via Microsoft Teams
+
 ### Session 1: April 14, 2025, 3:00PM - 4:00PM
 - **Paper:** Iain J. Cruickshank and Lynnette Hui Xian Ng. 2025. **Prompting and Fine-Tuning Open-Sourced Large Language Models for Stance Classification.** ACM Trans. Intell. Syst. Technol. (March 2025). https://doi.org/10.1145/3725816
  
-- **Presenter:** Parush Gera, Ph.D. Candidate, USF’s Bellini College of Artificial Intelligence, Cybersecurity and Computing RISE Speaker Series  
+- **Presenter:** Parush Gera, Ph.D. Candidate, USF’s Bellini College of Artificial Intelligence, Cybersecurity and Computing
 - **Meeting Information:**
 
 [Join the Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjA0NjViNzktZWU2Ny00M2UxLWE4MDAtM2RhZGYwZjVmNjg4%40thread.v2/0?context=%7b%22Tid%22%3a%22741bf7de-e2e5-46df-8d67-82607df9deaa%22%2c%22Oid%22%3a%22f8f1e81f-58f8-407b-af7d-89877ebc5bb6%22%7d) via Microsoft Teams
@@ -33,14 +41,6 @@ Passcode: dx7py3xc
 
 Dial in by phone:
 +1 813-694-2079,,943349433# United States, Tampa
-
-### Session 2: July 14, 2025, 3:00PM - 4:00PM
-- **Paper:** TBD
- 
-- **Presenter:** Sree Rushitha Santhoshi Mamidala, M.S. Student, USF’s Bellini College of Artificial Intelligence, Cybersecurity and Computing RISE Speaker Series  
-- **Meeting Information:**
-
-[Join the Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjA0NjViNzktZWU2Ny00M2UxLWE4MDAtM2RhZGYwZjVmNjg4%40thread.v2/0?context=%7b%22Tid%22%3a%22741bf7de-e2e5-46df-8d67-82607df9deaa%22%2c%22Oid%22%3a%22f8f1e81f-58f8-407b-af7d-89877ebc5bb6%22%7d) via Microsoft Teams
 
 Meeting ID: 277 166 152 15
 Passcode: dx7py3xc
