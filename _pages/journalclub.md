@@ -32,6 +32,8 @@ Meeting ID: 277 166 152 15, Passcode: dx7py3xc
 
 Dial in by phone: +1 813-694-2079,,943349433# United States, Tampa
 
+[Access the Recording](https://usfedu-my.sharepoint.com/:v:/g/personal/tjneal_usf_edu/ES76yi750BlMqYkr1oyb1fEBiH-_AHHwQKScWH9TVs_9qA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=3z9Wyy)
+
 ### Session 1: April 14, 2025, 3:00PM - 4:00PM
 - **Paper:** Iain J. Cruickshank and Lynnette Hui Xian Ng. 2025. **Prompting and Fine-Tuning Open-Sourced Large Language Models for Stance Classification.** ACM Trans. Intell. Syst. Technol. (March 2025). https://doi.org/10.1145/3725816
  
@@ -43,3 +45,5 @@ Dial in by phone: +1 813-694-2079,,943349433# United States, Tampa
 Meeting ID: 277 166 152 15, Passcode: dx7py3xc
 
 Dial in by phone: +1 813-694-2079,,943349433# United States, Tampa
+
+[Access the Recording](https://usfedu-my.sharepoint.com/:v:/g/personal/tjneal_usf_edu/EQ-imYB6bXZPn2UedNaiNOEBx5_G97AugzeYUarRpB0UHQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=YaKIKW)
