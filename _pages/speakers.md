@@ -10,8 +10,8 @@ permalink: /speakers.html
 ---
 
 ### Assessment Vulnerability: Systematically Identifying Student Overreliance on Large Language Models in Learning Processes
-<img src="https://nlp-grp.github.io/images/samoilova.png" alt="Evgenia Samoilova" width="150" style="float: left; margin-right: 25px;">
-<img src="https://nlp-grp.github.io/images/moebert.png" alt="Tobias Moebert" width="150" style="float: left; margin-right: 25px;">
+<img src="https://nlp-grp.github.io/images/evgenia.jpeg" alt="Evgenia Samoilova" width="150" style="float: left; margin-right: 25px;">
+<img src="https://nlp-grp.github.io/images/tobias.png" alt="Tobias Moebert" width="150" style="float: left; margin-right: 25px;">
 
 - **Presenter:** [Evgenia Samoilova, Ph.D.](https://www.uni-potsdam.de/en/multimedia/team/scientific-staff/evgenia-samoilova-phd), Postdoctoral Researcher, Chair for Complex Multimedia Application Architectures, University of Potsdam; [Tobias Moebert, Ph.D](https://www.uni-potsdam.de/en/multimedia/team/scientific-staff/dr-rer-nat-tobias-moebert), University of Potsdam
 - **Date:** July 28, 2025
